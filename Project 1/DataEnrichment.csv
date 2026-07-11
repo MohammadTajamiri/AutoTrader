@@ -1,0 +1,1004 @@
+,cylinders,fuel_efficiency_l_per_100km,country_of_origin,Make,Model,fuel_type
+0,4,8.7,United States,Lincoln,Corsair,Gas
+1,4,7.6,United States,Jeep,Cherokee,Gas/Electric Hybrid
+2,4,9.4,South Korea,Hyundai,Tucson,Gas
+3,4,8.1,Japan,Mazda,CX-5,Gas
+4,6,11.2,United States,Ford,F-150,Gas
+5,6,11.7,United Kingdom,Land,Rover Defender,Gas
+6,6,10.7,United States,Honda,Passport,Gas
+7,4,8.1,South Korea,Kia,Seltos,Gas
+8,4,9.8,South Korea,Genesis,GV70,Gas
+9,6,10.2,Germany,Audi,S5 Sportback,Gas
+10,4,7.8,Japan,Mazda,Mazda3,Gas
+11,4,8.1,Japan,Subaru,Outback,Gas
+12,6,9.4,United Kingdom,Land,Rover Defender,Gas/Electric Hybrid
+13,4,4.7,Japan,Toyota,Prius,Gas/Electric Hybrid
+14,,,Germany,BMW,X5,Electric
+15,4,9.4,Japan,Subaru,WRX,Gas
+16,6,11.2,Japan,Infiniti,QX60,Gas
+17,3,9.4,United States,Ford,Bronco Sport,Gas
+18,4,7.1,Japan,Honda,Civic Sedan,Gas
+19,4,7.6,Mexico,Nissan,Versa,Gas
+20,4,8.1,Germany,Mercedes-Benz,GLA,Gas
+21,8,13.8,United Kingdom,Land,Rover Range Rover Sport,Gas
+22,4,8.1,Mexico,Volkswagen,Taos,Gas
+23,4,8.9,Germany,Volkswagen,Tiguan,Gas
+24,6,11.2,South Korea,Kia,Carnival,Gas
+25,6,10.2,Germany,Porsche,Panamera,Gas
+26,6,11.2,United States,Volkswagen,Atlas,Gas
+27,6,11.2,Japan,Toyota,4-Runner,Gas
+28,4,9.4,China,Buick,Envision,Gas
+29,4,8.7,Japan,Toyota,RAV 4,Gas
+30,4,8.7,Germany,Mercedes-Benz,GLC,Gas
+31,4,9.4,United Kingdom,Land,Rover Range Rover Evoque,Gas
+32,6,9.8,Germany,Audi,Q8,Gas/Electric Hybrid
+33,6,11.2,United States,Honda,Pilot,Gas
+34,4,7.6,Germany,BMW,X1,Gas
+35,8,10.7,Germany,BMW,8 Series Gran Coupe,Gas
+36,4,8.1,Germany,Audi,A5 Coupe,Gas
+37,4,7.1,South Korea,Hyundai,Elantra,Gas
+38,6,10.2,Germany,BMW,M4,Gas
+39,4,6,Japan,Toyota,RAV 4 Hybrid,Gas/Electric Hybrid
+40,6,10.7,South Korea,Kia,Telluride,Gas
+41,4,1.9,Germany,Audi,A5 Sportback,Gas/Electric Hybrid
+42,6,10.7,United States,Toyota,Tacoma,Gas
+43,4,7.1,Germany,BMW,3 Series,Gas
+44,4,7.1,Germany,BMW,5 Series,Gas
+45,4,9.4,United States,Ford,Escape,Gas
+46,6,11.7,South Korea,Hyundai,Palisade,Gas
+47,6,11.2,Germany,BMW,X5,Gas
+48,4,6,Japan,Honda,CR-V Hybrid,Gas/Electric Hybrid
+49,4,4.1,Japan,Honda,Insight,Gas/Electric Hybrid
+50,4,7.5,Germany,Audi,A5 Sportback,Gas
+51,,,United States,Ford,Mustang Mach-E,Electric
+52,3,5.9,United Kingdom,Land,Rover Range Rover Evoque,Gas/Electric Hybrid
+53,4,9.8,Japan,Acura,RDX,Gas
+54,4,7.8,Japan,Toyota,Corolla Cross,Gas
+55,4,8.1,Japan,Honda,CR-V,Gas
+56,4,7.1,Germany,Audi,A3 Sedan,Gas
+57,3,6.4,United Kingdom,MINI,5 Door,Gas
+58,4,9.8,Germany,Audi,Q5,Gas
+59,6,11.7,United States,Jeep,Wrangler,Gas
+60,4,8.5,Germany,Porsche,Macan,Gas
+61,,,United States,Tesla,Model Y,Electric
+62,6,10.7,Germany,BMW,X6,Gas
+63,6,11.2,Germany,Audi,Q7,Gas
+64,4,9.4,United Kingdom,Land,Rover Discovery Sport,Gas
+65,4,10.2,South Korea,Hyundai,Santa Fe,Gas
+66,6,10.7,United States,Toyota,Tundra Hybrid,Gas/Electric Hybrid
+67,4,8.1,United States,Acura,ILX,Gas
+68,6,11.2,United States,Ford,Bronco,Gas
+69,6,11.2,United States,Jeep,Grand Cherokee L,Gas
+70,4,9.4,Japan,Lexus,NX,Gas
+71,6,10.2,Japan,Lexus,IS,Gas
+72,4,8.1,Germany,Volkswagen,Golf R,Gas
+73,8,13.1,United States,RAM,1500,Gas
+74,4,9.4,South Korea,Hyundai,Santa Fe Sport,Gas
+75,4,8.1,Japan,Toyota,Camry,Gas
+76,4,8.1,Japan,Mazda,Mazda3 Sport,Gas
+77,4,6,Japan,Honda,CR-V Hybrid,Gas
+78,6,11.2,Japan,Acura,MDX,Gas
+79,4,10.2,United Kingdom,Land,Rover Range Rover Velar,Gas
+80,4,8.1,Japan,Mazda,CX-30,Gas
+81,4,9.4,United States,Jeep,Compass,Gas
+82,4,8.1,Germany,Mercedes-Benz,GLC,Gas/Electric Hybrid
+83,4,8.1,Japan,Subaru,BRZ,Gas
+84,4,8.1,Japan,Nissan,Rogue,Gas
+85,8,12.4,United States,Chevrolet,Silverado 1500,Gas
+86,4,7.1,Germany,Mercedes-Benz,E-Class,Gas
+87,4,9.4,Japan,Infiniti,QX50,Gas
+88,4,7.1,Japan,Toyota,Corolla Sedan,Gas
+89,6,11.7,Japan,Mazda,CX-9,Gas
+90,4,9.8,United States,Lincoln,Nautilus,Gas
+91,6,11.2,Japan,Nissan,Pathfinder,Gas
+92,4,8.1,Japan,Honda,HR-V,Gas
+93,4,7.1,Germany,Volkswagen,Golf GTI,Gas
+94,4,7.6,Germany,BMW,X2,Gas
+95,4,5.8,Japan,Lexus,UX,Gas/Electric Hybrid
+96,4,8.9,United States,Mazda,CX-50,Gas
+97,6,11.2,Japan,Nissan,Frontier,Gas
+98,4,10.2,United States,Chevrolet,Colorado,Gas
+99,,,South Korea,Hyundai,Kona Electric,Electric
+100,6,11.2,Japan,Toyota,Highlander,Gas
+101,6,10.7,South Korea,Kia,Sorento,Gas
+102,8,14.7,United States,GMC,Yukon,Gas
+103,3,7.6,United Kingdom,MINI,Countryman,Gas
+104,4,6,Japan,Toyota,RAV 4,Gas/Electric Hybrid
+105,4,7.1,United States,Toyota,Sienna,Gas/Electric Hybrid
+106,4,8.1,Germany,Mercedes-Benz,C-Class Coupe,Gas
+107,4,7.1,Germany,BMW,4 Series,Gas
+108,6,11.2,United States,Chevrolet,Blazer,Gas
+109,6,10.7,Japan,Lexus,TX,Gas
+110,4,6.3,South Korea,Hyundai,Tucson Hybrid,Gas/Electric Hybrid
+111,4,7.5,South Korea,Kia,K4,Gas
+112,4,8.1,Germany,Audi,Q3,Gas
+113,,,United States,Jeep,Wrangler Unlimited,Electric
+114,4,8.1,Japan,Mazda,CX-70 MHEV,Gas
+115,4,10.7,Sweden,Volvo,XC90,Gas
+116,4,2.1,Sweden,Volvo,XC90 Hybrid,Gas/Electric Hybrid
+117,6,10.2,Japan,Nissan,Z,Gas
+118,4,8.7,Japan,Mitsubishi,Eclipse Cross,Gas
+119,,,,Acura,,Gas
+120,4,7.1,Germany,Volkswagen,Jetta,Gas
+121,6,11.2,Germany,Audi,SQ5,Gas
+122,4,8.7,Germany,BMW,X4,Gas
+123,4,7.8,India,Hyundai,Venue,Gas
+124,4,7.8,Japan,Nissan,Sentra,Gas
+125,3,7.8,China,Buick,Envista,Gas
+126,6,11.2,Germany,Mercedes-Benz,GLE,Gas
+127,4,9.4,South Korea,Kia,Sportage,Gas
+128,6,10.7,United States,Jeep,Cherokee,Gas
+129,6,10.7,United States,Dodge,Grand Caravan,Gas
+130,8,13.1,United States,Dodge,Durango,Gas
+131,6,7.8,Japan,Toyota,Highlander Hybrid,Gas/Electric Hybrid
+132,6,11.2,United States,Ford,Explorer,Gas
+133,4,6.5,Germany,Audi,A3,Gas
+134,4,,South Korea,Kia,Sorento Plug-In Hybrid,Electric
+135,,,Japan,Toyota,RAV 4,Electric
+136,4,7.8,Japan,Mazda,CX-3,Gas
+137,4,7.1,Germany,BMW,2 Series,Gas
+138,,,United States,Tesla,Model 3,Electric
+139,8,14.7,Japan,Infiniti,QX80,Gas
+140,4,9.4,Germany,BMW,X3,Gas
+141,4,8.1,Japan,Subaru,Crosstrek,Gas
+142,6,10.7,United States,GMC,Acadia,Gas
+143,6,12.4,United States,Jeep,Wrangler JK,Gas
+144,6,11.2,United States,Jeep,Grand Cherokee,Gas
+145,4,4.9,South Korea,Hyundai,Elantra Hybrid,Gas/Electric Hybrid
+146,8,14.7,United States,Nissan,Armada,Gas
+147,4,7.8,Germany,Mercedes-Benz,C-Class Sedan,Gas
+148,4,8.5,Japan,Honda,Civic Type R,Gas
+149,4,6.3,South Korea,Kia,Sorento Hybrid,Gas
+150,6,11.7,Germany,Porsche,Cayenne,Gas
+151,4,8.1,Germany,Mercedes-Benz,C-Class Wagon,Gas
+152,6,11.2,United States,Toyota,Sienna,Gas
+153,4,9.4,Sweden,Volvo,XC60,Gas
+154,8,12.4,United States,Toyota,Tundra,Gas
+155,8,11.2,United States,Chevrolet,Corvette,Gas
+156,6,10.2,Germany,Audi,S5 Coupe,Gas
+157,6,12.4,United States,Ford,Transit Cargo Van,Gas
+158,4,7.8,Germany,Audi,A4 Sedan,Gas
+159,4,3.4,United States,BMW,X5,Gas/Electric Hybrid
+160,6,9.4,United States,Ford,Taurus,Gas
+161,6,12.4,Germany,Porsche,Cayman 718 GT4,Gas
+162,8,12.4,United States,Dodge,Challenger,Gas
+163,4,7.1,Germany,Mercedes-Benz,CLA,Gas
+164,4,9.4,South Korea,Hyundai,Santa Cruz,Gas
+165,,,United Kingdom,MINI,3 Door,Electric
+166,4,8.1,Japan,Nissan,Altima,Gas
+167,4,6.7,Japan,Lexus,NX,Gas/Electric Hybrid
+168,4,8.1,United States,Ford,Fusion,Gas
+169,4,5.1,Japan,Honda,Accord Hybrid,Gas/Electric Hybrid
+170,4,10.2,Japan,Mitsubishi,Outlander,Gas
+171,6,11.2,Japan,Lexus,RX,Gas
+172,8,12.4,United States,GMC,Sierra 1500,Gas
+173,4,7.8,Japan,Mazda,MX-5 Miata RF,Gas
+174,4,8.7,Japan,Subaru,Forester,Gas
+175,4,8.1,South Korea,Hyundai,Kona,Gas
+176,6,9.4,United States,Ford,F-150,Gas/Electric Hybrid
+177,4,8.1,South Korea,Hyundai,Sonata,Gas
+178,4,9.4,Germany,Mercedes-Benz,GLB,Gas
+179,8,16.8,Japan,Lexus,LX,Gas
+180,4,8.1,South Korea,Kia,Forte 5,Gas
+181,8,14.7,United States,Chevrolet,Tahoe,Gas
+182,4,8.1,Sweden,Volvo,XC60 Recharge,Gas
+183,3,5.9,United Kingdom,MINI,Countryman,Gas/Electric Hybrid
+184,8,14.7,United States,RAM,3500,Gas
+185,,,United States,Tesla,Model 3,Gas
+186,6,3.4,Germany,Porsche,Cayenne,Gas/Electric Hybrid
+187,6,10.2,Germany,Mercedes-Benz,CLS-Class,Gas
+188,4,11.2,United States,Subaru,Ascent,Gas
+189,4,7.1,Germany,Volkswagen,Golf Standard Model,Gas
+190,4,7.8,United States,Chevrolet,Cruze,Gas
+191,4,6.7,South Korea,Hyundai,Santa Fe Hybrid,Gas/Electric Hybrid
+192,4,10.2,United States,GMC,Canyon,Gas
+193,6,11.7,Germany,Mercedes-Benz,GLS,Gas
+194,4,6,Japan,Toyota,RAV 4 Hybrid,Gas
+195,6,9.8,Germany,Audi,A7,Gas
+196,4,7.8,Japan,Honda,Civic Coupe,Gas
+197,6,11.2,United States,Jeep,Gladiator,Gas
+198,4,9.4,Canada,GMC,Terrain,Gas
+199,4,7.8,United States,Ford,Focus,Gas
+200,4,3.4,Germany,BMW,X6,Gas/Electric Hybrid
+201,6,8.7,Germany,Mercedes-Benz,GLE,Gas/Electric Hybrid
+202,4,7.8,South Korea,Kia,Forte,Gas
+203,4,7.1,Japan,Toyota,Corolla Hatchback 5-Door,Gas
+204,6,10.7,United States,Dodge,Charger,Gas
+205,4,7.6,Germany,BMW,4 Series Gran Coupe,Gas
+206,4,7.8,Germany,Audi,A4,Gas
+207,6,10.2,Japan,Acura,TL,Gas
+208,6,11.2,United States,Chrysler,Pacifica,Gas
+209,4,7.8,Germany,Audi,Q5,Gas/Electric Hybrid
+210,4,7.1,Germany,Mercedes-Benz,SLC,Gas
+211,4,7.1,Germany,BMW,X3,Gas/Electric Hybrid
+212,6,8.1,South Korea,Hyundai,Palisade Hybrid,Gas/Electric Hybrid
+213,4,6.7,Japan,Toyota,Venza,Gas/Electric Hybrid
+214,8,14.7,United States,Ford,Expedition,Gas
+215,,,United States,Lincoln,Corsair,Electric
+216,4,8.7,Germany,Audi,Q5 Sportback,Gas
+217,,,United States,Chevrolet,Blazer EV,Electric
+218,6,10.2,Germany,BMW,M2,Gas
+219,6,11.2,United States,Chevrolet,Traverse,Gas
+220,8,14.7,United States,RAM,2500,Gas
+221,6,11.2,United States,Jeep,Wrangler Unlimited,Gas
+222,4,8.5,Germany,Mercedes-Benz,AMG GT,Gas/Electric Hybrid
+223,4,9.4,Japan,Toyota,Venza,Gas
+224,4,10.7,United States,Jeep,Wrangler Unlimited,Gas/Electric Hybrid
+225,4,8.1,Japan,Honda,Accord Coupe,Gas
+226,8,11.2,United States,Ford,Mustang Fastback,Gas
+227,4,8.1,Mexico,Nissan,Kicks,Gas
+228,4,8.1,Japan,Honda,Accord Sedan,Gas
+229,4,6.1,Japan,Toyota,Yaris,Gas
+230,4,8.1,United Kingdom,Nissan,Qashqai,Gas
+231,4,5.1,Japan,Honda,Civic Sedan,Gas/Electric Hybrid
+232,6,10.2,Japan,Infiniti,Q60,Gas
+233,6,10.7,United States,RAM,1500,Gas/Electric Hybrid
+234,6,13.1,United States,Lincoln,Navigator L,Gas
+235,,,South Korea,Hyundai,IONIQ 5,Electric
+236,4,9.8,United States,Volkswagen,Atlas Cross Sport,Gas
+237,4,7.8,Germany,Volkswagen,Golf SportWagen,Gas
+238,4,8.7,United States,Cadillac,CT5,Gas
+239,6,10.7,United States,Cadillac,XT5,Gas
+240,4,10.2,United States,Ford,Edge,Gas
+241,4,2.1,Germany,BMW,3 Series,Gas/Electric Hybrid
+242,4,4.3,Japan,Lexus,CT,Gas/Electric Hybrid
+243,6,11.2,United States,Ford,Flex,Gas
+244,4,8.1,Japan,Subaru,Legacy,Gas
+245,6,9.8,Japan,Infiniti,Q50,Gas
+246,8,14.7,United States,Cadillac,Escalade,Gas
+247,8,13.1,United States,RAM,1500 Classic,Gas
+248,6,11.2,United States,Chevrolet,Trailblazer,Gas
+249,6,10.2,Germany,Audi,S5,Gas
+250,4,7.6,Germany,BMW,2 Series Gran Coupe,Gas
+251,4,1.9,Japan,Mitsubishi,Outlander Plug-In Hybrid,Gas/Electric Hybrid
+252,4,8.1,Germany,Audi,A5,Gas
+253,4,8.1,Japan,Mitsubishi,RVR,Gas
+254,4,2.3,United Kingdom,Land,Rover Range Rover Velar,Gas/Electric Hybrid
+255,6,8.9,Germany,Audi,Q7,Gas/Electric Hybrid
+256,6,9.4,Japan,Lexus,ES,Gas
+257,4,8.1,Germany,Volkswagen,Jetta GLI,Gas
+258,8,14.7,United States,Chevrolet,Silverado 2500 HD,Gas
+259,3,8.1,South Korea,Chevrolet,Trax,Gas
+260,4,1.6,South Korea,Hyundai,Santa Fe Plug-In Hybrid,Electric
+261,4,8.1,Germany,Volkswagen,Arteon,Gas
+262,6,10.7,Japan,Honda,Odyssey,Gas
+263,6,12.4,Mexico,RAM,ProMaster Cargo Van,Gas
+264,4,9.4,South Korea,Hyundai,Elantra N,Gas
+265,6,11.2,Germany,BMW,X7,Gas
+266,4,7.8,Germany,Volkswagen,Jetta Sedan,Gas
+267,4,5.6,Japan,Toyota,Camry,Gas/Electric Hybrid
+268,6,11.2,United States,Honda,Ridgeline,Gas
+269,6,2.5,Germany,Audi,A8 Long,Gas/Electric Hybrid
+270,6,11.7,United States,Lincoln,Aviator,Gas
+271,4,8.1,Mexico,Ford,Maverick,Gas
+272,4,8.9,United States,Jeep,Wrangler 4xe,Gas/Electric Hybrid
+273,4,6.9,South Korea,Kia,Sportage Hybrid,Gas/Electric Hybrid
+274,,,United States,Chevrolet,Bolt EUV,Electric
+275,6,8.1,Japan,Lexus,RX,Gas/Electric Hybrid
+276,4,6.3,South Korea,Kia,Sorento Hybrid,Gas/Electric Hybrid
+277,4,8.7,United States,Chevrolet,Equinox,Gas
+278,4,9.4,United States,Cadillac,XT4,Gas
+279,4,7.1,Germany,Volkswagen,Passat,Gas
+280,4,10.2,United States,Toyota,Grand Highlander,Gas
+281,4,3.4,United States,Ford,Escape PHEV,Gas/Electric Hybrid
+282,4,1.6,South Korea,Hyundai,Tucson Plug-In Hybrid,Gas/Electric Hybrid
+283,3,6.4,Mexico,Ford,Maverick,Gas/Electric Hybrid
+284,4,4.5,Japan,Toyota,Corolla Sedan,Gas/Electric Hybrid
+285,8,14.7,United States,Cadillac,Escalade ESV,Gas
+286,4,9.8,United States,Lincoln,MKC,Gas
+287,4,5.9,Germany,Mercedes-Benz,C-Class Sedan,Gas/Electric Hybrid
+288,6,12.4,South Korea,Hyundai,Santa Fe XL,Gas
+289,4,2.6,Japan,Mazda,CX-90 PHEV,Gas/Electric Hybrid
+290,8,14.7,United States,Lincoln,Navigator,Gas
+291,8,14.7,United States,GMC,Savana Cargo Van,Gas
+292,4,6.7,United States,Ford,Escape,Gas/Electric Hybrid
+293,6,11.2,United States,Ford,Ranger,Gas
+294,6,11.2,Japan,Nissan,Murano,Gas
+295,4,5.6,Japan,Honda,Accord,Gas/Electric Hybrid
+296,4,8.1,United States,Lincoln,Nautilus,Gas/Electric Hybrid
+297,4,9.4,United States,Jeep,Wrangler,Gas/Electric Hybrid
+298,6,10.2,Japan,Mazda,CX-90 MHEV,Gas
+299,8,14.7,United States,Chevrolet,Suburban,Gas
+300,4,2.1,Germany,BMW,5 Series,Gas/Electric Hybrid
+301,6,9.4,Japan,Toyota,4-Runner Hybrid,Gas/Electric Hybrid
+302,4,8.1,United States,Chevrolet,Malibu,Gas
+303,4,8.9,Japan,Mitsubishi,Outlander Plug-In Hybrid,Gas
+304,6,10.7,United States,Chrysler,300,Gas
+305,4,6.5,Germany,Mercedes-Benz,A-Class Hatchback,Gas
+306,8,12.4,United States,Chevrolet,Silverado 1500 LTD,Gas
+307,8,14.7,United States,GMC,Yukon XL,Gas
+308,8,13.1,United States,GMC,Sierra 1500 Limited,Gas
+309,8,15.7,United States,Ford,F-250 Super Duty,Gas
+310,8,14.7,Germany,BMW,X5 M,Gas
+311,6,10.7,United States,Dodge,Journey,Gas
+312,4,7.8,South Korea,Kia,Rio 5-door,Gas
+313,6,11.2,United States,Chrysler,Grand Caravan,Gas
+314,4,1.6,South Korea,Kia,Sorento Plug-In Hybrid,Gas/Electric Hybrid
+315,3,8.1,China,Buick,Encore GX,Gas
+316,4,8.1,Japan,Acura,Integra,Gas
+317,6,11.2,United States,Buick,Enclave,Gas
+318,8,12.4,United States,Chevrolet,Silverado 1500 LD,Gas
+319,4,4.7,Japan,Toyota,Prius,Gas
+320,4,3.4,United States,Jeep,Grand Cherokee 4xe,Gas/Electric Hybrid
+321,4,7.8,Japan,Toyota,C-HR,Gas
+322,4,7.1,South Korea,Hyundai,ACCENT,Gas
+323,,,United States,GMC,Sierra EV,Electric
+324,3,7.8,Sweden,Volvo,XC40,Gas
+325,,,South Korea,Kia,EV9,Electric
+326,,,United States,Chevrolet,Bolt,Electric
+327,4,7.6,Germany,Mercedes-Benz,GLA,Gas/Electric Hybrid
+328,,,South Korea,Kia,Niro EV,Electric
+329,,,,Subaru,Uncharted,Electric
+330,4,9.4,Japan,Mazda,CX-70,Gas
+331,,,United States,GMC,HUMMER EV SUV,Electric
+332,8,16.8,United States,Ford,F-350 Super Duty,Gas
+333,4,8.1,Japan,Mazda,Mazda6,Gas
+334,,,South Korea,Kia,,Electric
+335,,,United States,GMC,HUMMER EV Pickup,Electric
+336,4,6.4,Japan,Honda,Fit,Gas
+337,4,8.1,South Korea,Hyundai,Elantra GT,Gas
+338,8,14.7,United States,GMC,Sierra 2500HD,Gas
+339,6,12.4,United States,Ford,Police Interceptor Utility,Gas
+340,6,9.4,Germany,Audi,A6 Sedan,Gas
+341,8,16.8,United States,Chevrolet,Silverado 3500 HD,Gas
+342,6,10.2,Germany,Mercedes-Benz,S-Class,Gas
+343,,,United States,Chevrolet,Bolt EV,Electric
+344,6,10.2,United States,Chevrolet,Camaro,Gas
+345,4,8.1,South Korea,Kia,Soul,Gas
+346,4,5.6,United States,Ford,Fusion Hybrid,Gas/Electric Hybrid
+347,8,14.7,United States,Chevrolet,Express 2500,Gas
+348,4,7.1,Germany,BMW,3 Series Gran Turismo,Gas
+349,4,2.1,Sweden,Volvo,XC60,Gas/Electric Hybrid
+350,8,10.7,Germany,BMW,7 Series,Gas
+351,,,France,Renault,Unspecified,Gas
+352,8,16.8,United States,Jeep,Grand Wagoneer,Gas
+353,4,6.4,Japan,Mazda,Mazda2,Gas
+354,4,11.5,Japan,Toyota,HiAce,Gas
+355,4,7.6,Japan,Toyota,Corolla iM,Gas
+356,4,5.9,United States,Chevrolet,Malibu Hybrid,Gas/Electric Hybrid
+357,6,10.7,Japan,Infiniti,G Convertible,Gas
+358,4,8.1,Japan,Acura,ADX,Gas
+359,4,7.1,Japan,Honda,Civic Hatchback,Gas
+360,,,United States,Cadillac,Lyriq,Electric
+361,6,10.7,Japan,Lexus,IS Convertible,Gas
+362,6,10.2,Japan,Lexus,RC,Gas
+363,8,14.7,United Kingdom,Land,Rover Range Rover,Gas
+364,4,4.9,South Korea,Kia,Niro,Gas/Electric Hybrid
+365,,,Japan,Toyota,Prius,Electric
+366,,,Japan,Subaru,Trailseeker,Electric
+367,4,2.1,Sweden,Volvo,XC60 Recharge,Gas/Electric Hybrid
+368,4,8.1,Japan,Subaru,Impreza,Gas
+369,4,8.1,Japan,Mitsubishi,Lancer,Gas
+370,4,9.4,United States,GMC,Sierra 1500,Gas/Electric Hybrid
+371,4,5.1,South Korea,Hyundai,Sonata Hybrid,Gas/Electric Hybrid
+372,4,8.1,Mexico,Nissan,Kicks Play,Gas
+373,4,5.2,Japan,Toyota,Camry Hybrid,Gas/Electric Hybrid
+374,6,9.4,Austria,Toyota,GR Supra,Gas
+375,4,2.4,Germany,Mercedes-Benz,E-Class,Gas/Electric Hybrid
+376,4,2.1,Sweden,Volvo,XC90 Recharge,Gas/Electric Hybrid
+377,,,Sweden,Volvo,XC40 Recharge Pure Electric,Electric
+378,4,6.4,Japan,Toyota,Crown Signia,Gas/Electric Hybrid
+379,3,6.4,United Kingdom,MINI,3 Door,Gas
+380,4,8.1,South Korea,Kia,K5,Gas
+381,6,9.4,Germany,Mercedes-Benz,GLS,Gas/Electric Hybrid
+382,8,14.7,Japan,Infiniti,QX56,Gas
+383,4,6.8,Germany,Mercedes-Benz,A-Class Sedan,Gas
+384,,,United Kingdom,Rover,Unspecified,Gas
+385,,,United States,Dodge,Unspecified,Gas
+386,4,8.1,Germany,Volkswagen,Passat CC,Gas
+387,,,United Kingdom,Land,Rover Range Rover Velar,Electric
+388,8,10.2,Germany,Audi,S7,Gas
+389,4,7.1,South Korea,Kia,Rio,Gas
+390,6,3.9,United States,Chrysler,Pacifica Hybrid,Gas/Electric Hybrid
+391,,,Germany,Porsche,Macan,Electric
+392,8,10.7,United States,Chevrolet,Corvette Z51,Gas
+393,,,Germany,Porsche,Cayenne,Electric
+394,4,5.3,Japan,Honda,Civic Hatchback,Gas/Electric Hybrid
+395,,,South Korea,Kia,Soul EV,Electric
+396,6,8.1,Japan,Lexus,TX,Gas/Electric Hybrid
+397,,,Sweden,Volvo,XC60 Recharge,Electric
+398,6,9.4,United Kingdom,Land,Rover Range Rover Sport,Gas/Electric Hybrid
+399,3,6.4,United States,Lincoln,Corsair,Gas/Electric Hybrid
+400,4,2.1,Japan,Mazda,CX-70 PHEV,Gas/Electric Hybrid
+401,4,2.1,Sweden,Volvo,XC90 Plug-in Hybrid,Electric
+402,,,China,Volvo,EX30,Electric
+403,4,7.8,South Korea,Kia,Sorento,Gas/Electric Hybrid
+404,4,8.1,Japan,Mazda,CX-90 MHEV,Gas/Electric Hybrid
+405,4,7.1,Japan,Honda,Prelude,Gas/Electric Hybrid
+406,4,8.1,Japan,Honda,Accord,Gas
+407,,,South Korea,Kia,EV4,Electric
+408,,,United States,Jeep,Wagoneer S,Electric
+409,,,United States,Acura,ZDX,Electric
+410,6,11.2,United States,Acura,ZDX,Gas
+411,6,9.4,Japan,Acura,RLX,Gas
+412,4,9.4,Japan,Acura,TSX,Gas
+413,4,8.1,Germany,Audi,A4 Allroad Quattro,Gas
+414,4,2.4,Germany,Audi,Q5 Sportback,Gas/Electric Hybrid
+415,4,1.6,Germany,Audi,A3,Gas/Electric Hybrid
+416,6,10.7,Germany,Audi,SQ5 Sportback,Gas
+417,6,10.2,Germany,Audi,S4 Sedan,Gas
+418,,,Germany,Audi,A7,Electric
+419,4,6.4,Germany,Audi,A5 Coupe,Gas/Electric Hybrid
+420,6,8.1,Germany,Audi,S7,Gas/Electric Hybrid
+421,,,Germany,Audi,RS e-tron GT,Electric
+422,6,11.7,Germany,Audi,Q8,Gas
+423,8,10.2,Germany,Audi,RS7,Gas
+424,,,Germany,Audi,Q8 e-tron Sportback,Electric
+425,6,9.8,Germany,Audi,RS5 Coupe,Gas
+426,5,8.7,Germany,Audi,RS3,Gas
+427,4,8.7,Germany,Audi,RS3 Sedan,Gas
+428,6,7.6,Germany,Audi,A7,Gas/Electric Hybrid
+429,8,11.8,Germany,Audi,A8 Long,Gas
+430,4,6,Germany,Audi,A4 Sedan,Gas/Electric Hybrid
+431,,,Germany,Audi,A6 e-tron,Electric
+432,6,10.2,Germany,Audi,S5 Cabriolet,Gas
+433,6,10.2,Germany,Audi,RS5 Sportback,Gas
+434,10,13.7,Germany,Audi,R8,Gas
+435,6,9.8,Germany,Audi,RS5,Gas
+436,4,8.1,Germany,Audi,S3 Sedan,Gas
+437,8,9.8,Germany,Audi,RS6 Avant,Gas/Electric Hybrid
+438,4,6,Germany,Audi,A6 Sedan,Gas/Electric Hybrid
+439,4,5.9,Germany,Audi,A3 Sedan,Gas/Electric Hybrid
+440,4,7.9,Germany,Audi,TTS Coupe,Gas
+441,6,8.1,Germany,Audi,S6 Sedan,Gas/Electric Hybrid
+442,5,8.7,Germany,Audi,TT RS Coupe,Gas
+443,4,7.1,Germany,Audi,A4 Allroad Quattro,Gas/Electric Hybrid
+444,,,Germany,Audi,Q4 e-tron,Electric
+445,8,11.7,Germany,Audi,SQ7,Gas
+446,,,Germany,Audi,Q6 e-tron,Electric
+447,,,Germany,BMW,iX,Electric
+448,6,10.2,Germany,BMW,M3,Gas
+449,,,Germany,BMW,i4,Electric
+450,6,9.4,Germany,BMW,Z4 Roadster,Gas
+451,4,2.1,Germany,BMW,4 Series,Gas/Electric Hybrid
+452,4,7.6,Germany,BMW,X4,Gas/Electric Hybrid
+453,,,Germany,BMW,3 Series,Electric
+454,3,2.1,Germany,BMW,i8,Gas/Electric Hybrid
+455,10,14.7,Germany,BMW,M6 Coupe,Gas
+456,4,6.5,Germany,BMW,1 Series,Gas
+457,6,11.7,Germany,BMW,X3 M,Gas
+458,8,13.1,Germany,BMW,M5,Gas
+459,8,14.7,Germany,BMW,X6 M,Gas
+460,8,12.4,Germany,BMW,M8,Gas
+461,,,Germany,BMW,i5,Electric
+462,,,Germany,BMW,i7,Electric
+463,6,9.4,Germany,BMW,8 Series,Gas
+464,10,14.8,Germany,BMW,M6 Cabrio,Gas
+465,4,8.7,South Korea,Buick,Encore,Gas
+466,4,8.1,United States,Buick,Verano,Gas
+467,4,8.1,United States,Buick,Regal,Gas
+468,4,8.1,United States,Buick,Lacrosse,Gas
+469,4,8.1,China,Buick,Regal Sportback,Gas
+470,4,6.7,United States,Buick,Lacrosse,Gas/Electric Hybrid
+471,6,10.2,Canada,Buick,Allure,Gas
+472,,,China,Cadillac,Optiq,Electric
+473,6,11.2,United States,Cadillac,XT6,Gas
+474,4,9.4,United States,Cadillac,CT4-V,Gas
+475,,,United States,Cadillac,Vistiq,Electric
+476,4,8.1,United States,Cadillac,CT4,Gas
+477,6,10.2,United States,Cadillac,CT5-V,Gas
+478,6,10.7,United States,Cadillac,XTS,Gas
+479,6,10.2,United States,Cadillac,CTS Sedan,Gas
+480,6,10.7,United States,Cadillac,SRX,Gas
+481,4,8.7,United States,Cadillac,ATS Coupe,Gas
+482,6,10.7,United States,Cadillac,CTS,Gas
+483,4,8.1,United States,Cadillac,ATS Sedan,Gas
+484,6,10.7,United States,Cadillac,CTS Coupe,Gas
+485,4,9.8,United States,Cadillac,CT6,Gas
+486,4,8.7,United States,Cadillac,ATS,Gas
+487,8,11.7,United States,Cadillac,DTS,Gas
+488,,,United States,Cadillac,Escalade IQ,Electric
+489,8,13.8,United States,Cadillac,CTS-V,Gas
+490,8,14.7,United States,Cadillac,Deville,Gas
+491,8,11.8,United States,Cadillac,XLR,Gas
+492,8,11.2,United States,Cadillac,STS,Gas
+493,6,10.7,United States,Cadillac,ATS-V,Gas
+494,,,United States,Cadillac,ELR,Electric
+495,8,16.8,United States,Chevrolet,Express 3500,Gas
+496,,,United States,Chevrolet,Equinox EV,Electric
+497,,,United States,Chevrolet,Silverado EV,Electric
+498,4,6.4,South Korea,Chevrolet,Spark,Gas
+499,8,13.8,United States,Chevrolet,Corvette Z06,Gas
+500,6,10.7,United States,Chevrolet,Impala,Gas
+501,4,7.8,South Korea,Chevrolet,Sonic,Gas
+502,4,8.1,United States,Chevrolet,Cruze Limited,Gas
+503,8,16.8,United States,Chevrolet,Silverado 3500,Gas
+504,4,8.1,United States,Chevrolet,Malibu Limited,Gas
+505,8,14.7,United States,Chevrolet,Silverado 2500,Gas
+506,8,16.8,United States,Chevrolet,Express Commercial Cutaway,Gas
+507,4,5.6,United States,Chevrolet,Volt,Gas/Electric Hybrid
+508,4,9.4,Mexico,Chevrolet,City Express Cargo Van,Gas
+509,6,10.7,United States,Chrysler,Town & Country,Gas
+510,,,United States,Chrysler,Pacifica Hybrid,Electric
+511,4,8.1,United States,Chrysler,200,Gas
+512,6,9.8,United States,Chrysler,Sebring,Gas
+513,4,8.1,United States,Dodge,Hornet,Gas
+514,,,United States,Dodge,Hornet,Electric
+515,4,8.7,United States,Dodge,Caliber,Gas
+516,4,6.4,United States,Dodge,Hornet,Gas/Electric Hybrid
+517,,,United States,Dodge,Charger Daytona,Electric
+518,6,8.1,United States,Dodge,Grand Caravan,Gas/Electric Hybrid
+519,8,14.7,United States,Dodge,RAM 2500,Gas
+520,8,14.7,United States,Dodge,RAM,Gas
+521,8,12.4,United States,Ford,Mustang Shelby,Gas
+522,4,6.3,United States,Ford,Escape Hybrid,Gas/Electric Hybrid
+523,6,10.2,United States,Ford,Mustang Convertible,Gas
+524,4,8.1,India,Ford,EcoSport,Gas
+525,8,10.7,United States,Ford,Mustang Coupe,Gas
+526,8,12.4,United States,Ford,Mustang,Gas
+527,,,United States,Ford,Focus Electric,Electric
+528,4,9.8,Spain,Ford,Transit Connect,Gas
+529,4,6.4,Germany,Ford,Fiesta Hatchback,Gas
+530,6,12.4,Turkey,Ford,Transit Passenger Van,Gas
+531,4,7.6,United States,Ford,Escape PHEV,Gas
+532,4,9.4,United States,Ford,Explorer,Gas/Electric Hybrid
+533,8,14.7,United States,Ford,Expedition Max,Gas
+534,,,United States,Ford,Escape PHEV,Electric
+535,8,14.7,United States,Ford,E-350,Gas
+536,,,Turkey,Ford,Transit E-Transit Cargo Van,Electric
+537,6,13.1,United States,GMC,Safari,Gas
+538,8,16.8,United States,GMC,Sierra 3500HD,Gas
+539,8,16.8,United States,GMC,Savana Commercial Cutaway,Gas
+540,8,14.7,United States,GMC,Savana Passenger,Gas
+541,8,16.8,United States,GMC,Savana 3500,Gas
+542,,,United States,GMC,HUMMER EV SUV,Gas
+543,8,14.7,United States,GMC,Savana,Gas
+544,6,11.2,South Korea,Genesis,G90,Gas
+545,,,South Korea,Genesis,GV70 Electrified,Electric
+546,,,South Korea,Genesis,GV70,Electric
+547,4,9.4,South Korea,Genesis,G70,Gas
+548,6,11.2,South Korea,Genesis,GV80,Gas
+549,6,10.2,South Korea,Genesis,G80,Gas
+550,,,South Korea,Genesis,G80,Electric
+551,6,11.2,South Korea,Genesis,GV80 Coupe,Gas
+552,4,9.4,South Korea,Genesis,GV60,Gas
+553,,,South Korea,Genesis,GV60,Electric
+554,6,9.4,South Korea,Genesis,GV80 Coupe,Gas/Electric Hybrid
+555,4,5.3,Japan,Honda,Clarity Plug-In-Hybrid,Gas/Electric Hybrid
+556,4,4.9,South Korea,Hyundai,Elantra Hybrid,Gas
+557,4,6.3,South Korea,Hyundai,Tucson Hybrid,Gas
+558,4,8.1,South Korea,Hyundai,Veloster,Gas
+559,4,1.1,South Korea,Hyundai,IONIQ Plug-In-Hybrid,Electric
+560,4,7.8,South Korea,Hyundai,Santa Fe Hybrid,Gas
+561,,,South Korea,Hyundai,IONIQ 9,Electric
+562,,,,Hyundai,,Gas
+563,4,,South Korea,Hyundai,Tucson Plug-In Hybrid,Electric
+564,4,9.8,Japan,Infiniti,QX55,Gas
+565,6,10.2,Japan,Infiniti,EX,Gas
+566,6,11.7,Japan,Infiniti,QX70,Gas
+567,6,10.2,Japan,Infiniti,G,Gas
+568,6,8.1,Japan,Infiniti,M,Gas/Electric Hybrid
+569,6,10.7,Japan,Infiniti,JX35,Gas
+570,6,10.7,Japan,Infiniti,M,Gas
+571,6,10.2,Japan,Infiniti,Q70,Gas
+572,6,11.2,Japan,Infiniti,FX,Gas
+573,4,8.1,United Kingdom,Infiniti,QX30,Gas
+574,6,10.2,Japan,Infiniti,G Sedan,Gas
+575,4,7.8,Japan,Infiniti,Q50,Gas/Electric Hybrid
+576,6,10.2,Japan,Infiniti,M Sedan,Gas
+577,,,Japan,Infiniti,Q50,Electric
+578,8,13.1,United States,Jeep,Grand Cherokee WK,Gas
+579,4,9.4,United States,Jeep,Patriot,Gas
+580,,,United States,Jeep,Wrangler 4xe,Electric
+581,4,8.1,Italy,Jeep,Renegade,Gas
+582,4,9.4,United States,Jeep,Wagoneer,Gas/Electric Hybrid
+583,6,13.1,United States,Jeep,Wrangler JK Unlimited,Gas
+584,6,12.4,United States,Jeep,TJ,Gas
+585,,,United States,Jeep,Grand Cherokee 4xe,Electric
+586,8,15.7,United States,Jeep,Wagoneer,Gas
+587,4,8.1,South Korea,Kia,Forte 5-Door,Gas
+588,,,South Korea,Kia,Sportage Hybrid,Electric
+589,6,11.7,South Korea,Kia,Sedona,Gas
+590,4,8.1,South Korea,Kia,Forte Koup,Gas
+591,4,6.4,South Korea,Kia,Niro,Gas
+592,4,7.8,South Korea,Kia,Carnival Hybrid,Gas/Electric Hybrid
+593,4,10.2,South Korea,Kia,Stinger,Gas
+594,4,8.1,South Korea,Kia,Optima,Gas
+595,4,8.7,South Korea,Kia,Sorento Plug-In Hybrid,Gas
+596,4,6.9,South Korea,Kia,Sportage Hybrid,Gas
+597,,,South Korea,Kia,EV6,Electric
+598,4,9.4,South Korea,Kia,Rondo,Gas
+599,,,South Korea,Kia,Niro,Electric
+600,,,South Korea,Kia,Niro Plug-In Hybrid,Electric
+601,,,United Kingdom,Land,Rover Range Rover Sport,Electric
+602,6,9.4,United Kingdom,Land,Rover Range Rover,Gas/Electric Hybrid
+603,6,11.2,United Kingdom,Land,Rover Discovery,Gas
+604,10,12.4,Japan,Lexus,LC,Gas
+605,4,5.9,Japan,Lexus,ES,Gas/Electric Hybrid
+606,6,10.2,Japan,Lexus,GS,Gas
+607,8,13.1,Japan,Lexus,GX,Gas
+608,8,11.2,Japan,Lexus,LS,Gas
+609,,,Japan,Lexus,NX,Electric
+610,,,Japan,Lexus,RX,Electric
+611,,,Japan,Lexus,RZ,Electric
+612,4,7.1,Japan,Lexus,CT,Gas
+613,4,8.1,Japan,Lexus,UX,Gas
+614,,,Japan,Lexus,ES,Electric
+615,,,,Lexus,,Gas
+616,4,8.1,United States,Lincoln,MKZ,Gas
+617,6,9.4,United States,Lincoln,Aviator,Gas/Electric Hybrid
+618,6,11.2,United States,Lincoln,MKX,Gas
+619,8,14.7,United States,Lincoln,Continental,Gas
+620,6,11.2,United States,Lincoln,MKT,Gas
+621,6,10.7,United States,Lincoln,MKS,Gas
+622,4,5.9,United States,Lincoln,MKZ,Gas/Electric Hybrid
+623,8,14.7,United States,Lincoln,Town Car,Gas
+624,,,United States,Lincoln,Unspecified,Gas
+625,3,6.4,United Kingdom,MINI,Convertible,Gas
+626,,,United Kingdom,MINI,Countryman,Electric
+627,3,7.1,United Kingdom,MINI,Clubman,Gas
+628,4,8.1,United Kingdom,MINI,Paceman,Gas
+629,4,7.1,United Kingdom,MINI,Coupe,Gas
+630,3,6.7,United Kingdom,MINI,Cooper Hardtop,Gas
+631,4,7.1,United Kingdom,MINI,Unspecified,Gas
+632,4,7.8,Japan,Mazda,MX-5 Miata Roadster,Gas
+633,4,6,Japan,Mazda,CX-50 Hybrid,Gas/Electric Hybrid
+634,4,6.7,Japan,Mazda,CX-50 Hybrid,Gas
+635,,,Japan,Mazda,MX-30,Electric
+636,4,2.8,Japan,Mazda,CX-70 PHEV,Gas
+637,4,7.8,Japan,Mazda,CX-70,Gas/Electric Hybrid
+638,,,Japan,Mazda,CX-70,Electric
+639,,,Japan,Mazda,CX-90 PHEV,Electric
+640,4,1.6,Japan,Mazda,CX-70 PHEV,Electric
+641,4,7.8,Japan,Mazda,MX-5 Miata,Gas
+642,,,Germany,Mercedes-Benz,EQS,Electric
+643,,,Germany,Mercedes-Benz,EQE,Electric
+644,4,8.1,Germany,Mercedes-Benz,C-Class Convertible,Gas
+645,8,14.7,Germany,Mercedes-Benz,G-Class,Gas
+646,,,Germany,Mercedes-Benz,EQB,Electric
+647,6,2.9,Germany,Mercedes-Benz,S-Class,Gas/Electric Hybrid
+648,8,11.8,Germany,Mercedes-Benz,SL-Class,Gas
+649,6,10.7,Germany,Mercedes-Benz,GLK-Class,Gas
+650,4,7.8,Germany,Mercedes-Benz,CLE,Gas/Electric Hybrid
+651,12,13.8,Germany,Mercedes-Benz,CL-Class,Gas
+652,6,13.1,Germany,Mercedes-Benz,Sprinter 2500,Gas
+653,4,7.1,Germany,Mercedes-Benz,B-Class,Gas
+654,4,8.1,Germany,Mercedes-Benz,CLE,Gas
+655,,,Germany,Mercedes-Benz,GLC,Electric
+656,6,12.4,Germany,Mercedes-Benz,Sprinter 2500 Passenger Van,Gas
+657,,,Germany,Mercedes-Benz,eSprinter Cargo Van,Electric
+658,4,8.1,Germany,Mercedes-Benz,EQB,Gas
+659,,,Germany,Mercedes-Benz,eSprinter,Electric
+660,,,Japan,Mitsubishi,Outlander Plug-In Hybrid,Electric
+661,3,5.9,Japan,Mitsubishi,Mirage,Gas
+662,4,11.2,Japan,Mitsubishi,Lancer Evolution,Gas
+663,,,Japan,Mitsubishi,Outlander,Electric
+664,4,8.1,Japan,Mitsubishi,Outlander,Gas/Electric Hybrid
+665,3,6.4,Japan,Mitsubishi,Mirage G4,Gas
+666,,,Japan,Mitsubishi,I-MiEV,Electric
+667,,,Japan,Mitsubishi,Unspecified,Gas
+668,4,9.4,Japan,Mitsubishi,Eclipse,Gas
+669,4,8.1,Japan,Mitsubishi,Lancer Sportback,Gas
+670,4,8.1,Japan,Mitsubishi,Galant,Gas
+671,,,Japan,Nissan,Leaf,Electric
+672,4,7.1,Japan,Nissan,Rogue,Gas/Electric Hybrid
+673,8,14.7,United States,Nissan,Titan,Gas
+674,4,10.7,Mexico,Nissan,NV200 Cargo Vans,Gas
+675,6,11.7,Japan,Nissan,Xterra,Gas
+676,6,9.4,Japan,Nissan,Maxima,Gas
+677,6,9.1,Germany,Porsche,Cayman,Gas
+678,6,3.4,Germany,Porsche,Panamera,Gas/Electric Hybrid
+679,,,Germany,Porsche,Taycan,Electric
+680,4,7.4,Germany,Porsche,Boxster 718,Gas
+681,4,8.1,Germany,Porsche,Cayman 718,Gas
+682,6,10.7,Germany,Porsche,911 Carrera 4S Cabriolet,Gas
+683,6,10.2,Germany,Porsche,911 Carrera Cabriolet,Gas
+684,6,10.4,Germany,Porsche,911 Carrera S Coupe,Gas
+685,,,Germany,Porsche,Panamera,Electric
+686,6,10.7,Germany,Porsche,911 Carrera 4 Cabriolet,Gas
+687,6,10.7,Germany,Porsche,911 Carrera 4S Coupe,Gas
+688,6,10.7,Germany,Porsche,911 Carrera Coupe,Gas
+689,6,9.8,Germany,Porsche,Boxster,Gas
+690,6,10.4,Germany,Porsche,911 Carrera S Cabriolet,Gas
+691,4,10.7,Mexico,RAM,ProMaster City Cargo Van,Gas
+692,4,10.2,Mexico,RAM,ProMaster City Wagon,Gas
+693,6,12.4,Mexico,RAM,ProMaster Window Van,Gas
+694,,,United States,RAM,ProMaster 3500,Gas/Electric Hybrid
+695,6,12.4,Mexico,RAM,ProMaster 3500,Gas
+696,4,11.2,Romania,RAM,Cargo Van,Gas
+697,6,12.4,Mexico,RAM,ProMaster,Gas
+698,4,6.3,Japan,Subaru,Crosstrek Hybrid,Gas/Electric Hybrid
+699,4,7.8,Japan,Subaru,Forester,Gas/Electric Hybrid
+700,4,11.2,Japan,Subaru,WRX STI,Gas
+701,,,Japan,Subaru,Solterra,Electric
+702,4,8.1,Japan,Subaru,XV Crosstrek,Gas
+703,,,United States,Tesla,Model S,Electric
+704,,,United States,Tesla,Cybertruck,Electric
+705,,,United States,Tesla,Model X,Electric
+706,,,United States,Tesla,Model S,Gas
+707,,,,Tesla,,Gas
+708,,,United States,Tesla,Model Y,Gas
+709,6,13.8,Japan,Toyota,FJ Cruiser,Gas
+710,4,5.2,Japan,Toyota,Corolla Cross Hybrid,Gas/Electric Hybrid
+711,4,2,Japan,Toyota,RAV 4 Plug-In Hybrid,Gas/Electric Hybrid
+712,4,4.7,Japan,Toyota,Prius c,Gas
+713,4,1.9,Japan,Toyota,Prius Plug-In Hybrid,Electric
+714,6,10.7,United States,Toyota,Sequoia,Gas/Electric Hybrid
+715,4,6.4,Japan,Toyota,Yaris Hatchback,Gas
+716,4,2.1,Japan,Toyota,Prius Plug-In Hybrid,Gas/Electric Hybrid
+717,4,8.1,Japan,Toyota,Tacoma,Gas/Electric Hybrid
+718,,,Japan,Toyota,bZ,Electric
+719,4,6,Japan,Toyota,Crown,Gas/Electric Hybrid
+720,6,10.7,United States,Toyota,Tundra Hybrid,Gas
+721,4,8.1,United States,Toyota,Grand Highlander Hybrid,Gas/Electric Hybrid
+722,6,7.8,Japan,Toyota,Highlander Hybrid,Gas
+723,6,11.7,Japan,Toyota,Land Cruiser,Gas/Electric Hybrid
+724,,,Japan,Toyota,Unspecified,Gas
+725,,,Japan,Toyota,C-HR,Electric
+726,8,14.7,Japan,Toyota,Land Cruiser,Gas
+727,,,Japan,Toyota,bZ4X,Electric
+728,6,10.2,Japan,Toyota,Crown,Gas
+729,4,7.8,Germany,Volkswagen,Beetle Coupe,Gas
+730,4,7.8,Germany,Volkswagen,Rabbit,Gas
+731,4,7.8,Germany,Volkswagen,Beetle,Gas
+732,4,8.1,Germany,Volkswagen,CC,Gas
+733,4,7.1,Germany,Volkswagen,Scirocco,Gas
+734,,,Sweden,Volvo,XC60 Plug-in Hybrid,Electric
+735,4,2.1,Sweden,Volvo,XC90,Gas/Electric Hybrid
+736,4,2.1,Sweden,Volvo,XC90 Plug-in Hybrid,Gas/Electric Hybrid
+737,4,8.1,Sweden,Volvo,V60 Cross Country,Gas
+738,4,2.1,Sweden,Volvo,XC60 Plug-in Hybrid,Gas/Electric Hybrid
+739,,,Sweden,Volvo,EX40,Electric
+740,,,Sweden,Volvo,EX90,Electric
+741,4,2.1,Sweden,Volvo,XC90 Plug-in Hybrid,Gas
+742,,,Sweden,Volvo,XC90 Recharge,Electric
+743,,,Belgium,Volvo,C40 Recharge Pure Electric,Electric
+744,4,8.1,Sweden,Volvo,XC90 Recharge,Gas
+745,,,Sweden,Volvo,S60 Recharge,Electric
+746,4,8.1,Sweden,Volvo,S60,Gas
+747,6,10.7,Sweden,Volvo,XC70,Gas
+748,4,8.1,Sweden,Volvo,V60,Gas
+749,,,Sweden,Volvo,XC90,Electric
+750,6,10.2,Sweden,Volvo,S80,Gas
+751,6,10.7,Sweden,Volvo,V70,Gas
+752,4,5.9,Sweden,Volvo,S60,Gas/Electric Hybrid
+753,4,8.1,Sweden,Volvo,C30,Gas
+754,4,8.1,Sweden,Volvo,S90,Gas
+755,4,10.2,Sweden,Volvo,V90 Cross Country,Gas
+756,3,1.8,Sweden,Volvo,XC40,Gas/Electric Hybrid
+757,5,10.2,Sweden,Volvo,C70,Gas
+758,4,8.1,Sweden,Volvo,S40,Gas
+759,4,2.1,Sweden,Volvo,XC90 Hybrid,Gas
+760,4,6.4,Sweden,Volvo,V60 Cross Country,Gas/Electric Hybrid
+761,4,7.6,Sweden,Volvo,V90 Cross Country,Gas/Electric Hybrid
+762,4,8.1,Japan,Scion,tC,Gas
+763,,,United States,Rivian,R1S,Electric
+764,4,7.1,Italy,Alfa,Romeo Giulia,Gas
+765,4,9.4,United Kingdom,Jaguar,F-Pace,Gas
+766,8,11.2,United States,Chevrolet,Corvette Grand Sport,Gas
+767,4,2.5,South Korea,Hyundai,Sonata Plug-In Hybrid,Gas/Electric Hybrid
+768,8,11.2,Japan,Lexus,SC,Gas
+769,4,8.1,Canada,Toyota,Matrix,Gas
+770,4,7.1,South Korea,Hyundai,ELANTRA,Gas
+771,4,7.6,Mexico,Nissan,Versa Note,Gas
+772,4,7.1,Italy,Fiat,500L,Gas
+773,3,2.1,Germany,BMW,i8 Roadster,Gas/Electric Hybrid
+774,6,10.2,United Kingdom,Jaguar,F-Type,Gas
+775,4,7.1,Japan,Toyota,Corolla,Gas
+776,4,8.1,Japan,Nissan,Juke,Gas
+777,4,6.3,South Korea,Hyundai,Tucson,Gas/Electric Hybrid
+778,,,United States,Honda,Prologue,Electric
+779,,,Japan,Nissan,Ariya,Electric
+780,6,10.2,United Kingdom,Jaguar,X-Type,Gas
+781,4,8.1,Germany,Mercedes-Benz,SLK-Class,Gas
+782,6,10.7,Germany,Mercedes-Benz,250,Gas
+783,6,10.7,South Korea,Hyundai,Genesis Coupe,Gas
+784,4,7.1,Japan,Honda,Civic,Gas
+785,8,11.2,Germany,Mercedes-Benz,SL,Gas
+786,4,8.1,Japan,Subaru,OUTBACK,Gas
+787,4,10.2,South Korea,Hyundai,SANTA FE,Gas
+788,4,7.1,United Kingdom,Jaguar,XE,Gas
+789,4,7.1,Germany,Mercedes-Benz,C-Class,Gas
+790,4,8.1,Germany,Audi,A5 Cabriolet,Gas
+791,8,12.4,Germany,Mercedes-Benz,AMG GT,Gas
+792,6,8.9,United States,BMW,X7,Gas/Electric Hybrid
+793,6,10.2,Japan,Infiniti,G Coupe,Gas
+794,,,United Kingdom,Jaguar,I-Pace,Electric
+795,4,9.4,Japan,Mazda,Mazda5,Gas
+796,4,6.9,South Korea,Kia,Sportage,Gas/Electric Hybrid
+797,8,14.7,United Kingdom,Land,Rover LR4,Gas
+798,4,8.1,Italy,Fiat,500X,Gas
+799,8,14.7,United States,Chevrolet,Express,Gas
+800,4,4.7,Japan,Toyota,Prius c,Gas/Electric Hybrid
+801,4,9.4,United States,Ford,Police Interceptor Utility,Gas/Electric Hybrid
+802,4,6.7,Japan,Subaru,XV Crosstrek,Gas/Electric Hybrid
+803,8,13.1,Germany,Audi,RS Q8,Gas
+804,8,16.8,United States,Ford,E-Series Cutaway,Gas
+805,4,7.6,Italy,Alfa,Romeo Tonale,Gas
+806,4,5.9,Japan,Nissan,Micra,Gas
+807,4,9.4,United States,Saturn,SKY,Gas
+808,6,11.2,United States,Dodge,Caravan,Gas
+809,4,8.1,Germany,Audi,TTS,Gas
+810,4,7.1,Germany,Volkswagen,Golf,Gas
+811,4,6.3,South Korea,Hyundai,TUCSON,Gas/Electric Hybrid
+812,4,7.1,Japan,Mazda,3,Gas
+813,6,10.2,Germany,Mercedes-Benz,CLK,Gas
+814,6,10.2,Japan,Infiniti,Q60 Coupe,Gas
+815,8,14.7,United States,Lincoln,Mark LT,Gas
+816,4,8.1,South Korea,Hyundai,KONA,Gas
+817,6,11.2,United States,Ford,F 150,Gas
+818,6,9.4,United States,Ford,F 150,Gas/Electric Hybrid
+819,6,10.2,United States,Saturn,VUE,Gas
+820,4,4.7,Japan,Honda,Civic,Gas/Electric Hybrid
+821,6,12.4,United States,Chevrolet,Astro,Gas
+822,4,7.6,Germany,Audi,TT,Gas
+823,4,9.4,Japan,Toyota,GR86,Gas
+824,4,4.1,France,Renault,Clio,Gas/Electric Hybrid
+825,4,8.1,Japan,Scion,FR-S,Gas
+826,6,10.2,South Korea,Hyundai,Genesis Sedan,Gas
+827,4,9.4,Japan,Nissan,NV200,Gas
+828,4,2,Japan,Toyota,Prius Prime,Gas/Electric Hybrid
+829,6,10.2,Germany,Audi,S4,Gas
+830,4,9.4,United States,Pontiac,Solstice,Gas
+831,4,10.7,Germany,Mercedes-Benz,Metris Cargo Van,Gas
+832,6,10.2,Germany,BMW,6 Series,Gas
+833,4,5.8,Japan,Toyota,Camry Hybrid,Gas
+834,8,12.4,Germany,Audi,S8,Gas
+835,4,9.4,South Korea,Hyundai,Kona N,Gas
+836,6,10.7,Japan,Nissan,370Z Coupe,Gas
+837,6,10.2,Italy,Maserati,Ghibli,Gas
+838,6,9.4,United States,Toyota,Avalon,Gas
+839,4,8.1,Germany,Audi,A6,Gas
+840,6,11.2,Japan,Nissan,350Z,Gas
+841,8,15.7,United States,Toyota,Sequoia,Gas
+842,10,14.7,Germany,BMW,M6,Gas
+843,,,Germany,Audi,e-tron,Electric
+844,3,9.4,Japan,Toyota,GR Corolla,Gas
+845,4,9.4,South Korea,Hyundai,TUCSON,Gas
+846,4,6,Japan,Honda,CR-V,Gas/Electric Hybrid
+847,8,12.4,United Kingdom,Jaguar,XK,Gas
+848,6,10.7,Japan,Nissan,370Z,Gas
+849,6,10.7,United States,Toyota,Tundra,Gas/Electric Hybrid
+850,6,8.1,Japan,Toyota,Highlander,Gas/Electric Hybrid
+851,4,6.7,Germany,Audi,A5,Gas/Electric Hybrid
+852,,,United States,Ford,F 150 Lightning,Electric
+853,4,8.1,South Korea,Hyundai,SONATA,Gas
+854,6,11.7,South Korea,Hyundai,PALISADE,Gas
+855,,,South Korea,Hyundai,KONA,Electric
+856,4,5.9,Japan,Honda,CR-Z,Gas/Electric Hybrid
+857,4,5.9,United States,Ford,Fusion,Gas/Electric Hybrid
+858,8,11.8,Germany,Audi,SQ8,Gas
+859,4,9.4,United States,Fisker,Karma,Gas/Electric Hybrid
+860,4,8.1,South Korea,Hyundai,Santa Fe,Gas/Electric Hybrid
+861,4,9.4,United States,Chevrolet,Silverado 1500,Gas/Electric Hybrid
+862,8,12.4,United Kingdom,Jaguar,XK Convertible,Gas
+863,4,4.5,Japan,Toyota,Corolla,Gas/Electric Hybrid
+864,6,10.7,United Kingdom,Jaguar,XJ,Gas
+865,,,United States,Ford,,Gas
+866,6,10.2,Germany,BMW,1 Series M Coupe,Gas
+867,4,8.1,Germany,Volkswagen,Beetle Convertible,Gas
+868,,,,Unspecified,Unspecified,Gas
+869,4,7.1,Germany,Audi,A3 Cabriolet,Gas
+870,,,South Korea,Hyundai,IONIQ 6,Electric
+871,8,12.4,Italy,Ferrari,California,Gas
+872,4,8.1,Japan,Nissan,X-Trail,Gas
+873,,,Japan,Toyota,Unspecified,Gas/Electric Hybrid
+874,8,13.8,Italy,Maserati,Quattroporte,Gas
+875,6,11.7,Germany,Volkswagen,Touareg,Gas
+876,4,5.6,United States,Chevrolet,Volt,Gas
+877,4,7.5,Germany,Audi,S3,Gas
+878,,,United States,Ford,F-150 Lightning,Electric
+879,,,United States,Ford,F-150,Electric
+880,,,United States,Ford,Unspecified,Gas
+881,4,10.2,Italy,Alfa,Romeo Stelvio,Gas
+882,4,6.4,Italy,Fiat,500,Gas
+883,6,12.4,Mexico,RAM,Promaster,Gas
+884,6,6.7,Germany,Audi,A6,Gas/Electric Hybrid
+885,4,11.5,Germany,Mercedes-Benz,Sprinter,Gas
+886,4,4.7,South Korea,Hyundai,IONIQ Hybrid,Gas/Electric Hybrid
+887,4,4.1,South Korea,Hyundai,IONIQ,Gas/Electric Hybrid
+888,4,8.1,Germany,Volkswagen,Eos,Gas
+889,4,9.4,Italy,Maserati,Grecale,Gas
+890,6,10.7,Japan,Nissan,370Z Roadster,Gas
+891,4,8.1,South Korea,Hyundai,SANTA FE,Gas/Electric Hybrid
+892,6,10.7,Germany,Chrysler,Crossfire,Gas
+893,4,8.1,United Kingdom,Jaguar,XF,Gas
+894,,,,Mercedes-Benz,,Gas
+895,8,16.8,United States,Ford,F-550 Super Duty,Gas
+896,4,5.6,United States,Ford,Fusion Energi,Gas/Electric Hybrid
+897,4,8.1,United States,Jeep,Grand Cherokee 4xe,Gas
+898,4,8.1,United States,Pontiac,Vibe,Gas
+899,4,7.1,Japan,Subaru,XV,Gas
+900,4,7.1,South Korea,Chevrolet,Aveo,Gas
+901,8,14.7,United Kingdom,Aston,Martin DBX,Gas
+902,8,14.7,United States,Ford,E-450,Gas
+903,3,5.8,Germany,smart,fortwo,Gas
+904,6,7.8,Japan,Lexus,LS,Gas/Electric Hybrid
+905,4,5.9,United States,Ford,C-Max Hybrid,Gas/Electric Hybrid
+906,4,9.4,Germany,Volkswagen,Golf City,Gas
+907,6,11.7,Germany,Mercedes-Benz,M-Class,Gas
+908,8,9.4,United States,BMW,X6 M,Gas/Electric Hybrid
+909,4,10.7,Japan,Mazda,CX-7,Gas
+910,8,11.2,United States,Chevrolet,Corvette Stingray,Gas
+911,6,9.4,United States,Pontiac,G6,Gas
+912,4,8.1,Germany,Volkswagen,Golf Wagon,Gas
+913,6,10.2,Germany,BMW,6 Series Gran Coupe,Gas
+914,8,12.4,Germany,BMW,M8 Gran Coupe,Gas
+915,12,14.7,United Kingdom,Rolls-Royce,Ghost,Gas
+916,8,14.7,United States,Chevrolet,SSR,Gas
+917,8,14.7,United States,Dodge,RAM 1500,Gas
+918,6,10.2,United Kingdom,Lotus,Evora,Gas
+919,4,8.1,South Korea,Hyundai,Elantra Touring,Gas
+920,,,China,Polestar,3,Electric
+921,6,10.2,Germany,Mercedes-Benz,CLK-Class,Gas
+922,8,14.7,United States,Ford,Econoline,Gas
+923,4,2.9,South Korea,Hyundai,Tucson Plug-In Hybrid,Gas
+924,4,7.8,Japan,Nissan,Sentra NISMO,Gas
+925,6,11.2,Japan,Lexus,RX 350,Gas
+926,6,8.1,Germany,Audi,S6,Gas/Electric Hybrid
+927,,,Germany,BMW,Unspecified,Gas
+928,12,14.7,United Kingdom,Bentley,Bentayga,Gas
+929,,,Japan,Toyota,Prius Prime,Electric
+930,6,11.2,Italy,Maserati,Levante,Gas
+931,4,9.4,Mexico,Chevrolet,City Express,Gas
+932,6,10.7,Germany,Porsche,911,Gas
+933,8,13.8,United Kingdom,Aston,Martin Vantage,Gas
+934,4,8.1,Sweden,Saab,03-Sep,Gas
+935,8,12.4,United Kingdom,McLaren,12 C,Gas
+936,4,8.1,Italy,Alfa,Romeo 4C,Gas
+937,,,Germany,Audi,e-tron GT,Electric
+938,6,10.2,Germany,BMW,5 Series Gran Turismo,Gas
+939,8,14.7,Italy,Maserati,GranTurismo,Gas
+940,5,9.5,Germany,Audi,TT RS Roadster,Gas
+941,,,United States,RAM,,Gas
+942,4,2.1,Italy,Alfa,Romeo Tonale,Gas/Electric Hybrid
+943,4,7.4,Germany,Porsche,718 Boxster,Gas
+944,6,12.4,Mexico,RAM,ProMaster 2500,Gas
+945,4,8.1,Japan,Nissan,Juke Nismo,Gas
+946,6,8.1,Germany,BMW,Z4,Gas
+947,4,10.2,Japan,Suzuki,Grand Vitara,Gas
+948,4,11.2,Turkey,Ford,Transit,Gas
+949,,,South Korea,Hyundai,IONIQ 5 N,Electric
+950,5,13.1,United States,HUMMER,H3,Gas
+951,6,11.2,United States,Ford,Explorer Sport Trac,Gas
+952,8,12.4,United States,Chevrolet,Silverado,Gas
+953,6,12.4,United States,GMC,Envoy,Gas
+954,4,9.4,South Korea,Kia,Spectra,Gas
+955,4,8.1,United States,Dodge,Dart,Gas
+956,,,Germany,Audi,SQ6 e-tron,Electric
+957,4,2.8,Japan,Toyota,RAV 4 Prime,Gas/Electric Hybrid
+958,12,14.7,United Kingdom,Bentley,Continental GT,Gas
+959,6,11.2,United Kingdom,Land,Rover LR2,Gas
+960,,,Germany,Audi,Q4 e-tron Sportback,Electric
+961,4,7.6,Germany,Mercedes-Benz,CLS-Class,Gas/Electric Hybrid
+962,8,14.7,United States,Chevrolet,Express Passenger,Gas
+963,8,14.7,United States,Nissan,Titan XD,Gas
+964,4,1.9,Japan,Mitsubishi,Outlander PHEV,Gas/Electric Hybrid
+965,4,5.9,South Korea,Hyundai,SONATA,Gas/Electric Hybrid
+966,4,6.5,Japan,Nissan,Note,Gas
+967,6,10.2,Germany,Mercedes-Benz,CLS,Gas
+968,4,5.1,South Korea,Hyundai,ELANTRA,Gas/Electric Hybrid
+969,6,10.7,Germany,Mercedes-Benz,230,Gas
+970,4,8.1,Japan,Scion,xB,Gas
+971,4,10.7,Germany,Mercedes-Benz,Metris Passenger Van,Gas
+972,,,United Kingdom,Land,Rover Range Rover,Electric
+973,4,8.1,Canada,Acura,CSX,Gas
+974,,,Sweden,Polestar,2,Electric
+975,4,4.7,Japan,Toyota,Prius Prime,Gas
+976,,,Germany,Volkswagen,ID.4,Electric
+977,8,14.7,South Korea,Kia,Borrego,Gas
+978,4,8.1,Germany,Volkswagen,Golf Alltrack,Gas
+979,4,8.1,Japan,Mazda,CX-90 PHEV,Gas
+980,4,8.7,Japan,Toyota,RAV 4 Prime,Gas
+981,4,7.6,Japan,Scion,iM,Gas
+982,6,11.2,United States,Jeep,Liberty,Gas
+983,4,10.7,Japan,Mazda,B-Series,Gas
+984,8,17.8,United States,HUMMER,H2,Gas
+985,6,9.4,United States,Saturn,Aura,Gas
+986,3,6.7,Japan,Daihatsu,Hijet,Gas
+987,6,10.2,Germany,Audi,S6 Sedan,Gas
+988,4,8.1,Japan,Acura,RSX,Gas
+989,,,South Korea,Hyundai,Kona,Electric
+990,,,Japan,Toyota,bZ Woodland,Electric
+991,,,South Korea,Kia,EV5,Electric
+992,,,Germany,Mercedes-Benz,GLE,Electric
+993,,,Japan,Mitsubishi,Outlander PHEV,Electric
+994,6,11.4,Germany,Porsche,911 Carrera 4 GTS Coupe,Gas
+995,4,8.1,Japan,Mazda,CX-70 MHEV,Gas/Electric Hybrid
+996,6,12.4,Japan,Nissan,GT-R,Gas
+997,4,2.1,Germany,BMW,5 Series Sedan,Gas/Electric Hybrid
+998,5,8.7,Germany,Audi,TT RS,Gas
+999,4,9.4,United Kingdom,Lotus,Emira,Gas
+1000,6,8.1,United States,Chrysler,Pacifica Hybrid,Gas
+1001,,,South Korea,Kia,Sportage,Electric
+1002,,,Japan,Toyota,RAV 4 Prime,Electric
