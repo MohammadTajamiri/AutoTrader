@@ -1,0 +1,55 @@
+0
+mileage
+Age
+no_accidents
+has_carfax
+one_owner
+service_records
+certified
+Is_Hybrid
+transmission_Manual
+std_tier_1std
+std_tier_2std
+std_tier_3std
+std_tier_Normal
+Make_Audi
+Make_BMW
+Make_Buick
+Make_Cadillac
+Make_Chevrolet
+Make_Chrysler
+Make_Dodge
+Make_Ford
+Make_GMC
+Make_Genesis
+Make_Honda
+Make_Hyundai
+Make_Infiniti
+Make_Jeep
+Make_Kia
+Make_Lexus
+Make_Lincoln
+Make_MINI
+Make_Mazda
+Make_Mercedes-Benz
+Make_Mitsubishi
+Make_Nissan
+Make_Porsche
+Make_RAM
+Make_Subaru
+Make_Toyota
+Make_Volkswagen
+Make_Volvo
+Body Type_Coupe
+Body Type_Hatchback
+Body Type_Minivan
+Body Type_Pickup Truck
+Body Type_SUV
+Body Type_Sedan
+Body Type_Van
+Body Type_Wagon
+Cylinders_3
+Cylinders_4
+Cylinders_5
+Cylinders_6
+Cylinders_8
