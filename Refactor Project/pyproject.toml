@@ -1,0 +1,20 @@
+[project]
+name = "AutoDealer"
+version = "0.1.0"
+description = "Used car price prediction model"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "xgboost",
+    "matplotlib",
+    "seaborn",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

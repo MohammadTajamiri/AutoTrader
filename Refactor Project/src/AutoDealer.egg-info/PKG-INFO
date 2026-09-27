@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: AutoDealer
+Version: 0.1.0
+Summary: Used car price prediction model
+Requires-Python: >=3.10
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
