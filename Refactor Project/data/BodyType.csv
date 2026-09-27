@@ -1,0 +1,784 @@
+make_model,body_type
+Lincoln Corsair,SUV
+Jeep Cherokee,SUV
+Hyundai Tucson,SUV
+Mazda CX-5,SUV
+Ford F-150,Pickup Truck
+Land Rover Defender,SUV
+Honda Passport,SUV
+Kia Seltos,SUV
+Genesis GV70,SUV
+Audi S5 Sportback,Hatchback
+Mazda Mazda3,Sedan
+Subaru Outback,Wagon
+Toyota Prius,Hatchback
+BMW X5,SUV
+Subaru WRX,Sedan
+Infiniti QX60,SUV
+Ford Bronco Sport,SUV
+Honda Civic Sedan,Sedan
+Nissan Versa,Sedan
+Mercedes-Benz GLA,SUV
+Land Rover Range Rover Sport,SUV
+Volkswagen Taos,SUV
+Volkswagen Tiguan,SUV
+Kia Carnival,Minivan
+Porsche Panamera,Sedan
+Volkswagen Atlas,SUV
+Toyota 4-Runner,SUV
+Buick Envision,SUV
+Toyota RAV 4,SUV
+Mercedes-Benz GLC,SUV
+Land Rover Range Rover Evoque,SUV
+Audi Q8,SUV
+Honda Pilot,SUV
+BMW X1,SUV
+BMW 8 Series Gran Coupe,Sedan
+Audi A5 Coupe,Coupe
+Hyundai Elantra,Sedan
+BMW M4,Coupe
+Toyota RAV 4 Hybrid,SUV
+Kia Telluride,SUV
+Audi A5 Sportback,Hatchback
+Toyota Tacoma,Pickup Truck
+BMW 3 Series,Sedan
+BMW 5 Series,Sedan
+Ford Escape,SUV
+Hyundai Palisade,SUV
+Honda CR-V Hybrid,SUV
+Honda Insight,Hatchback
+Ford Mustang Mach-E,SUV
+Acura RDX,SUV
+Toyota Corolla Cross,Hatchback
+Honda CR-V,SUV
+Audi A3 Sedan,Sedan
+MINI 5 Door,Hatchback
+Audi Q5,SUV
+Jeep Wrangler,SUV
+Porsche Macan,SUV
+Tesla Model Y,SUV
+BMW X6,SUV
+Audi Q7,SUV
+Land Rover Discovery Sport,SUV
+Hyundai Santa Fe,SUV
+Toyota Tundra Hybrid,Pickup Truck
+Acura ILX,Sedan
+Ford Bronco,SUV
+Jeep Grand Cherokee L,SUV
+Lexus NX,SUV
+Lexus IS,Sedan
+Volkswagen Golf R,Hatchback
+RAM 1500,Pickup Truck
+Hyundai Santa Fe Sport,SUV
+Toyota Camry,Sedan
+Mazda Mazda3 Sport,Hatchback
+Acura MDX,SUV
+Land Rover Range Rover Velar,SUV
+Mazda CX-30,SUV
+Jeep Compass,SUV
+Subaru BRZ,Coupe
+Nissan Rogue,SUV
+Chevrolet Silverado 1500,Pickup Truck
+Mercedes-Benz E-Class,Sedan
+Infiniti QX50,SUV
+Toyota Corolla Sedan,Sedan
+Mazda CX-9,SUV
+Lincoln Nautilus,SUV
+Nissan Pathfinder,SUV
+Honda HR-V,SUV
+Volkswagen Golf GTI,Hatchback
+BMW X2,SUV
+Lexus UX,SUV
+Mazda CX-50,SUV
+Nissan Frontier,Pickup Truck
+Chevrolet Colorado,Pickup Truck
+Hyundai Kona Electric,SUV
+Toyota Highlander,SUV
+Kia Sorento,SUV
+GMC Yukon,SUV
+MINI Countryman,SUV
+Toyota Sienna,Minivan
+Mercedes-Benz C-Class Coupe,Coupe
+BMW 4 Series,Coupe
+Chevrolet Blazer,SUV
+Lexus TX,SUV
+Hyundai Tucson Hybrid,SUV
+Kia K4,Sedan
+Audi Q3,SUV
+Jeep Wrangler Unlimited,SUV
+Mazda CX-70 MHEV,SUV
+Volvo XC90,SUV
+Volvo XC90 Hybrid,SUV
+Nissan Z,Coupe
+Mitsubishi Eclipse Cross,SUV
+Acura TLX,Sedan
+Volkswagen Jetta,Sedan
+Audi SQ5,SUV
+BMW X4,SUV
+Hyundai Venue,SUV
+Nissan Sentra,Sedan
+Buick Envista,SUV
+Mercedes-Benz GLE,SUV
+Kia Sportage,SUV
+Dodge Grand Caravan,Minivan
+Dodge Durango,SUV
+Toyota Highlander Hybrid,SUV
+Ford Explorer,SUV
+Audi A3,Sedan
+Kia Sorento Plug-In Hybrid,SUV
+Mazda CX-3,SUV
+BMW 2 Series,Coupe
+Tesla Model 3,Sedan
+Infiniti QX80,SUV
+BMW X3,SUV
+Subaru Crosstrek,SUV
+GMC Acadia,SUV
+Jeep Wrangler JK,SUV
+Jeep Grand Cherokee,SUV
+Hyundai Elantra Hybrid,Sedan
+Nissan Armada,SUV
+Mercedes-Benz C-Class Sedan,Sedan
+Honda Civic Type R,Hatchback
+Kia Sorento Hybrid,SUV
+Porsche Cayenne,SUV
+Mercedes-Benz C-Class Wagon,Wagon
+Volvo XC60,SUV
+Toyota Tundra,Pickup Truck
+Chevrolet Corvette,Coupe
+Audi S5 Coupe,Coupe
+Ford Transit Cargo Van,Cargo Van
+Audi A4 Sedan,Sedan
+Ford Taurus,Sedan
+Porsche Cayman 718 GT4,Coupe
+Dodge Challenger,Coupe
+Mercedes-Benz CLA,Sedan
+Hyundai Santa Cruz,SUV
+MINI 3 Door,Hatchback
+Nissan Altima,Sedan
+Ford Fusion,Sedan
+Honda Accord Hybrid,Sedan
+Mitsubishi Outlander,SUV
+Lexus RX,SUV
+GMC Sierra 1500,Pickup Truck
+Mazda MX-5 Miata RF,Convertible
+Subaru Forester,SUV
+Hyundai Kona,SUV
+Hyundai Sonata,Sedan
+Mercedes-Benz GLB,SUV
+Lexus LX,SUV
+Kia Forte 5,
+Chevrolet Tahoe,SUV
+Volvo XC60 Recharge,SUV
+RAM 3500,Pickup Truck
+Mercedes-Benz CLS-Class,Coupe
+Subaru Ascent,SUV
+Volkswagen Golf Standard Model,Hatchback
+Chevrolet Cruze,Sedan
+Hyundai Santa Fe Hybrid,SUV
+GMC Canyon,Pickup Truck
+Mercedes-Benz GLS,SUV
+Audi A7,Hatchback
+Honda Civic Coupe,Coupe
+Jeep Gladiator,Pickup Truck
+GMC Terrain,SUV
+Ford Focus,Hatchback
+Kia Forte,Sedan
+Toyota Corolla Hatchback 5-Door,Hatchback
+Dodge Charger,Sedan
+BMW 4 Series Gran Coupe,Sedan
+Audi A4,Sedan
+Acura TL,Sedan
+Chrysler Pacifica,Minivan
+Mercedes-Benz SLC,Convertible
+Hyundai Palisade Hybrid,SUV
+Toyota Venza,SUV
+Ford Expedition,SUV
+Audi Q5 Sportback,SUV
+Chevrolet Blazer EV,SUV
+BMW M2,Coupe
+Chevrolet Traverse,SUV
+RAM 2500,Pickup Truck
+Mercedes-Benz AMG GT,Coupe
+Honda Accord Coupe,Coupe
+Ford Mustang Fastback,Coupe
+Nissan Kicks,SUV
+Honda Accord Sedan,Sedan
+Toyota Yaris,Hatchback
+Nissan Qashqai,SUV
+Infiniti Q60,Coupe
+Lincoln Navigator L,SUV
+Hyundai IONIQ 5,
+Volkswagen Atlas Cross Sport,SUV
+Volkswagen Golf SportWagen,Wagon
+Cadillac CT5,Sedan
+Cadillac XT5,SUV
+Ford Edge,SUV
+Lexus CT,Hatchback
+Ford Flex,SUV
+Subaru Legacy,Sedan
+Infiniti Q50,Sedan
+Cadillac Escalade,SUV
+RAM 1500 Classic,Pickup Truck
+Chevrolet Trailblazer,SUV
+Audi S5,Coupe
+BMW 2 Series Gran Coupe,Coupe
+Mitsubishi Outlander Plug-In Hybrid,SUV
+Audi A5,Coupe
+Mitsubishi RVR,SUV
+Lexus ES,Sedan
+Volkswagen Jetta GLI,Sedan
+Chevrolet Silverado 2500 HD,Pickup Truck
+Chevrolet Trax,SUV
+Hyundai Santa Fe Plug-In Hybrid,SUV
+Volkswagen Arteon,Fastback
+Honda Odyssey,Minivan
+RAM ProMaster Cargo Van,Cargo Van
+Hyundai Elantra N,Sedan
+BMW X7,SUV
+Volkswagen Jetta Sedan,Sedan
+Honda Ridgeline,Pickup Truck
+Audi A8 Long,Sedan
+Lincoln Aviator,SUV
+Ford Maverick,Pickup Truck
+Jeep Wrangler 4xe,SUV
+Kia Sportage Hybrid,SUV
+Chevrolet Bolt EUV,SUV
+Chevrolet Equinox,SUV
+Cadillac XT4,SUV
+Volkswagen Passat,Sedan
+Toyota Grand Highlander,SUV
+Ford Escape PHEV,SUV
+Hyundai Tucson Plug-In Hybrid,SUV
+Cadillac Escalade ESV,SUV
+Lincoln MKC,SUV
+Hyundai Santa Fe XL,SUV
+Mazda CX-90 PHEV,SUV
+Lincoln Navigator,SUV
+GMC Savana Cargo Van,Van
+Ford Ranger,Pickup Truck
+Nissan Murano,SUV
+Honda Accord,Sedan
+Mazda CX-90 MHEV,SUV
+Chevrolet Suburban,SUV
+Toyota 4-Runner Hybrid,SUV
+Chevrolet Malibu,Sedan
+Chrysler 300,Sedan
+Mercedes-Benz A-Class Hatchback,Hatchback
+Chevrolet Silverado 1500 LTD,Pickup Truck
+GMC Yukon XL,SUV
+GMC Sierra 1500 Limited,Pickup Truck
+Ford F-250 Super Duty,Pickup Truck
+BMW X5 M,SUV
+Dodge Journey,SUV
+Kia Rio 5-door,Hatchback
+Chrysler Grand Caravan,Minivan
+Buick Encore GX,SUV
+Acura Integra,Sedan
+Buick Enclave,SUV
+Chevrolet Silverado 1500 LD,Pickup Truck
+Jeep Grand Cherokee 4xe,SUV
+Toyota C-HR,SUV
+Hyundai ACCENT,Sedan
+GMC Sierra EV,Pickup Truck
+Volvo XC40,SUV
+Kia EV9,SUV
+Chevrolet Bolt,Hatchback
+Kia Niro EV,SUV
+Subaru Uncharted,
+Mazda CX-70,SUV
+GMC HUMMER EV SUV,SUV
+Ford F-350 Super Duty,Pickup Truck
+Mazda Mazda6,Sedan
+GMC HUMMER EV Pickup,Pickup Truck
+Honda Fit,Hatchback
+Hyundai Elantra GT,Hatchback
+GMC Sierra 2500HD,Pickup Truck
+Ford Police Interceptor Utility,SUV
+Audi A6 Sedan,Sedan
+Chevrolet Silverado 3500 HD,Pickup Truck
+Mercedes-Benz S-Class,Sedan
+Chevrolet Bolt EV,Hatchback
+Chevrolet Camaro,Coupe
+Kia Soul,SUV
+Ford Fusion Hybrid,Sedan
+Chevrolet Express 2500,Van
+BMW 3 Series Gran Turismo,Hatchback
+BMW 7 Series,Sedan
+Jeep Grand Wagoneer,SUV
+Mazda Mazda2,Hatchback
+Toyota HiAce,Minivan
+Toyota Corolla iM,Hatchback
+Chevrolet Malibu Hybrid,Sedan
+Infiniti G Convertible,Convertible
+Acura ADX,SUV
+Honda Civic Hatchback,Hatchback
+Cadillac Lyriq,SUV
+Lexus IS Convertible,Convertible
+Lexus RC,Coupe
+Land Rover Range Rover,SUV
+Kia Niro,SUV
+Subaru Trailseeker,
+Subaru Impreza,Sedan
+Mitsubishi Lancer,Sedan
+Hyundai Sonata Hybrid,Sedan
+Nissan Kicks Play,SUV
+Toyota Camry Hybrid,Sedan
+Toyota GR Supra,Coupe
+Volvo XC90 Recharge,SUV
+Volvo XC40 Recharge Pure Electric,SUV
+Toyota Crown Signia,SUV
+Kia K5,Sedan
+Infiniti QX56,SUV
+Mercedes-Benz A-Class Sedan,Sedan
+Volkswagen Passat CC,Sedan
+Audi S7,Hatchback
+Kia Rio,Sedan
+Chrysler Pacifica Hybrid,Minivan
+Chevrolet Corvette Z51,Coupe
+Kia Soul EV,SUV
+Mazda CX-70 PHEV,SUV
+Volvo XC90 Plug-in Hybrid,SUV
+Volvo EX30,SUV
+Honda Prelude,Coupe
+Kia EV4,Sedan
+Jeep Wagoneer S,SUV
+Acura ZDX,SUV
+Acura RLX,Sedan
+Acura TSX,Sedan
+Audi A4 Allroad Quattro,Wagon
+Audi SQ5 Sportback,SUV
+Audi S4 Sedan,Sedan
+Audi RS e-tron GT,Sedan
+Audi RS7,Hatchback
+Audi Q8 e-tron Sportback,SUV
+Audi RS5 Coupe,Coupe
+Audi RS3,Sedan
+Audi RS3 Sedan,Sedan
+Audi A6 e-tron,Sedan
+Audi S5 Cabriolet,Convertible
+Audi RS5 Sportback,Hatchback
+Audi R8,Coupe
+Audi RS5,Coupe
+Audi S3 Sedan,Sedan
+Audi RS6 Avant,Wagon
+Audi TTS Coupe,Coupe
+Audi S6 Sedan,Sedan
+Audi TT RS Coupe,Coupe
+Audi Q4 e-tron,SUV
+Audi SQ7,SUV
+Audi Q6 e-tron,SUV
+BMW iX,SUV
+BMW M3,Sedan
+BMW i4,Sedan
+BMW Z4 Roadster,Convertible
+BMW i8,Coupe
+BMW M6 Coupe,Coupe
+BMW 1 Series,Hatchback
+BMW X3 M,SUV
+BMW M5,Sedan
+BMW X6 M,SUV
+BMW M8,Coupe
+BMW i5,Sedan
+BMW i7,Sedan
+BMW 8 Series,Coupe
+BMW M6 Cabrio,Convertible
+Buick Encore,SUV
+Buick Verano,Sedan
+Buick Regal,Sedan
+Buick Lacrosse,Sedan
+Buick Regal Sportback,Hatchback
+Buick Allure,Sedan
+Cadillac Optiq,SUV
+Cadillac XT6,SUV
+Cadillac CT4-V,Sedan
+Cadillac Vistiq,SUV
+Cadillac CT4,Sedan
+Cadillac CT5-V,Sedan
+Cadillac XTS,Sedan
+Cadillac CTS Sedan,Sedan
+Cadillac SRX,SUV
+Cadillac ATS Coupe,Coupe
+Cadillac CTS,Sedan
+Cadillac ATS Sedan,Sedan
+Cadillac CTS Coupe,Coupe
+Cadillac CT6,Sedan
+Cadillac ATS,Sedan
+Cadillac DTS,Sedan
+Cadillac Escalade IQ,SUV
+Cadillac CTS-V,Sedan
+Cadillac Deville,Sedan
+Cadillac XLR,Convertible
+Cadillac STS,Sedan
+Cadillac ATS-V,Sedan
+Cadillac ELR,Coupe
+Chevrolet Express 3500,Van
+Chevrolet Equinox EV,SUV
+Chevrolet Silverado EV,Pickup Truck
+Chevrolet Spark,Hatchback
+Chevrolet Corvette Z06,Coupe
+Chevrolet Impala,Sedan
+Chevrolet Sonic,Sedan
+Chevrolet Cruze Limited,Sedan
+Chevrolet Silverado 3500,Pickup Truck
+Chevrolet Malibu Limited,Sedan
+Chevrolet Silverado 2500,Pickup Truck
+Chevrolet Express Commercial Cutaway,Van
+Chevrolet Volt,Hatchback
+Chevrolet City Express Cargo Van,Minivan
+Chrysler Town & Country,Minivan
+Chrysler 200,Sedan
+Chrysler Sebring,Sedan
+Dodge Hornet,SUV
+Dodge Caliber,Hatchback
+Dodge Charger Daytona,Sedan
+Dodge RAM 2500,Pickup Truck
+Dodge RAM,Pickup Truck
+Ford Mustang Shelby,Coupe
+Ford Escape Hybrid,SUV
+Ford Mustang Convertible,Convertible
+Ford EcoSport,SUV
+Ford Mustang Coupe,Coupe
+Ford Mustang,Coupe
+Ford Focus Electric,Hatchback
+Ford Transit Connect,Minivan
+Ford Fiesta Hatchback,Hatchback
+Ford Transit Passenger Van,Minivan
+Ford Expedition Max,SUV
+Ford E-350,Van
+Ford Transit E-Transit Cargo Van,Minivan
+GMC Safari,Minivan
+GMC Sierra 3500HD,Pickup Truck
+GMC Savana Commercial Cutaway,Van
+GMC Savana Passenger,Van
+GMC Savana 3500,Van
+GMC Savana,Van
+Genesis G90,Sedan
+Genesis GV70 Electrified,SUV
+Genesis G70,Sedan
+Genesis GV80,SUV
+Genesis G80,Sedan
+Genesis GV80 Coupe,SUV
+Genesis GV60,SUV
+Honda Clarity Plug-In-Hybrid,Sedan
+Hyundai Veloster,Hatchback
+Hyundai IONIQ Plug-In-Hybrid,Hatchback
+Hyundai IONIQ 9,Hatchback
+Infiniti QX55,SUV
+Infiniti EX,SUV
+Infiniti QX70,SUV
+Infiniti G,Sedan
+Infiniti M,Sedan
+Infiniti JX35,SUV
+Infiniti Q70,Sedan
+Infiniti FX,SUV
+Infiniti QX30,SUV
+Infiniti G Sedan,Sedan
+Infiniti M Sedan,Sedan
+Jeep Grand Cherokee WK,SUV
+Jeep Patriot,SUV
+Jeep Renegade,SUV
+Jeep Wagoneer,SUV
+Jeep Wrangler JK Unlimited,SUV
+Jeep TJ,SUV
+Kia Forte 5-Door,Hatchback
+Kia Sedona,Minivan
+Kia Forte Koup,Coupe
+Kia Carnival Hybrid,Minivan
+Kia Stinger,Sedan
+Kia Optima,Sedan
+Kia EV6,SUV
+Kia Rondo,Minivan
+Kia Niro Plug-In Hybrid,SUV
+Land Rover Discovery,SUV
+Lexus LC,Coupe
+Lexus GS,Sedan
+Lexus GX,SUV
+Lexus LS,Sedan
+Lexus RZ,SUV
+Lincoln MKZ,Sedan
+Lincoln MKX,SUV
+Lincoln Continental,Sedan
+Lincoln MKT,Wagon
+Lincoln MKS,Sedan
+Lincoln Town Car,Sedan
+MINI Convertible,Convertible
+MINI Clubman,Wagon
+MINI Paceman,SUV
+MINI Coupe,Coupe
+MINI Cooper Hardtop,Hatchback
+Mazda MX-5 Miata Roadster,Convertible
+Mazda CX-50 Hybrid,SUV
+Mazda MX-30,SUV
+Mazda MX-5 Miata,Convertible
+Mercedes-Benz EQS,Sedan
+Mercedes-Benz EQE,Sedan
+Mercedes-Benz C-Class Convertible,Convertible
+Mercedes-Benz G-Class,SUV
+Mercedes-Benz EQB,SUV
+Mercedes-Benz SL-Class,Convertible
+Mercedes-Benz GLK-Class,SUV
+Mercedes-Benz CLE,Coupe
+Mercedes-Benz CL-Class,Coupe
+Mercedes-Benz Sprinter 2500,Minivan
+Mercedes-Benz B-Class,Hatchback
+Mercedes-Benz Sprinter 2500 Passenger Van,Minivan
+Mercedes-Benz eSprinter Cargo Van,Cargo Van
+Mercedes-Benz eSprinter,Minivan
+Mitsubishi Mirage,Hatchback
+Mitsubishi Lancer Evolution,Sedan
+Mitsubishi Mirage G4,
+Mitsubishi I-MiEV,Hatchback
+Mitsubishi Eclipse,Coupe
+Mitsubishi Lancer Sportback,Hatchback
+Mitsubishi Galant,Sedan
+Nissan Leaf,Hatchback
+Nissan Titan,Pickup Truck
+Nissan NV200 Cargo Vans,Minivan
+Nissan Xterra,SUV
+Nissan Maxima,Sedan
+Porsche Cayman,Coupe
+Porsche Taycan,Sedan
+Porsche Boxster 718,Convertible
+Porsche Cayman 718,Coupe
+Porsche 911 Carrera 4S Cabriolet,Convertible
+Porsche 911 Carrera Cabriolet,Convertible
+Porsche 911 Carrera S Coupe,Coupe
+Porsche 911 Carrera 4 Cabriolet,Convertible
+Porsche 911 Carrera 4S Coupe,Coupe
+Porsche 911 Carrera Coupe,Coupe
+Porsche Boxster,Convertible
+Porsche 911 Carrera S Cabriolet,Convertible
+RAM ProMaster City Cargo Van,Van
+RAM ProMaster City Wagon,Minivan
+RAM ProMaster Window Van,Van
+RAM ProMaster 3500,Van
+RAM Cargo Van,Van
+RAM ProMaster,Van
+Subaru Crosstrek Hybrid,SUV
+Subaru WRX STI,Sedan
+Subaru Solterra,SUV
+Subaru XV Crosstrek,SUV
+Tesla Model S,Sedan
+Tesla Cybertruck,Pickup Truck
+Tesla Model X,SUV
+Toyota FJ Cruiser,SUV
+Toyota Corolla Cross Hybrid,Sedan
+Toyota RAV 4 Plug-In Hybrid,SUV
+Toyota Prius c,Hatchback
+Toyota Prius Plug-In Hybrid,Hatchback
+Toyota Sequoia,SUV
+Toyota Yaris Hatchback,Hatchback
+Toyota bZ,SUV
+Toyota Crown,Sedan
+Toyota Grand Highlander Hybrid,SUV
+Toyota Land Cruiser,SUV
+Toyota bZ4X,SUV
+Volkswagen Beetle Coupe,Coupe
+Volkswagen Rabbit,Hatchback
+Volkswagen Beetle,Hatchback
+Volkswagen CC,Sedan
+Volkswagen Scirocco,Coupe
+Volvo XC60 Plug-in Hybrid,SUV
+Volvo V60 Cross Country,Wagon
+Volvo EX40,SUV
+Volvo EX90,SUV
+Volvo C40 Recharge Pure Electric,SUV
+Volvo S60 Recharge,Sedan
+Volvo S60,Sedan
+Volvo XC70,Wagon
+Volvo V60,Wagon
+Volvo S80,Sedan
+Volvo V70,Wagon
+Volvo C30,Hatchback
+Volvo S90,Sedan
+Volvo V90 Cross Country,Wagon
+Volvo C70,Convertible
+Volvo S40,Sedan
+Scion tC,Coupe
+Rivian R1S,SUV
+Alfa Romeo Giulia,Sedan
+Jaguar F-Pace,SUV
+Chevrolet Corvette Grand Sport,Coupe
+Hyundai Sonata Plug-In Hybrid,Sedan
+Lexus SC,Convertible
+Toyota Matrix,Hatchback
+Hyundai ELANTRA,Sedan
+Nissan Versa Note,Sedan
+Fiat 500L,Hatchback
+BMW i8 Roadster,Convertible
+Jaguar F-Type,Coupe
+Toyota Corolla,Sedan
+Nissan Juke,SUV
+Honda Prologue,SUV
+Nissan Ariya,SUV
+Jaguar X-Type,Sedan
+Mercedes-Benz SLK-Class,Convertible
+Mercedes-Benz 250,Sedan
+Hyundai Genesis Coupe,Coupe
+Honda Civic,Sedan
+Mercedes-Benz SL,Convertible
+Subaru OUTBACK,Wagon
+Hyundai SANTA FE,SUV
+Jaguar XE,Sedan
+Mercedes-Benz C-Class,Sedan
+Audi A5 Cabriolet,Convertible
+Infiniti G Coupe,Coupe
+Jaguar I-Pace,SUV
+Mazda Mazda5,Minivan
+Land Rover LR4,SUV
+Fiat 500X,SUV
+Chevrolet Express,Van
+Audi RS Q8,SUV
+Ford E-Series Cutaway,Van
+Alfa Romeo Tonale,SUV
+Nissan Micra,Hatchback
+Saturn SKY,Convertible
+Dodge Caravan,Minivan
+Audi TTS,Coupe
+Volkswagen Golf,Hatchback
+Hyundai TUCSON,SUV
+Mazda 3,Sedan
+Mercedes-Benz CLK,Coupe
+Infiniti Q60 Coupe,Coupe
+Lincoln Mark LT,Sedan
+Hyundai KONA,SUV
+Ford F 150,Pickup Truck
+Saturn VUE,SUV
+Chevrolet Astro,Minivan
+Audi TT,Coupe
+Toyota GR86,Coupe
+Renault Clio,Hatchback
+Scion FR-S,Coupe
+Hyundai Genesis Sedan,Sedan
+Nissan NV200,Minivan
+Toyota Prius Prime,Hatchback
+Audi S4,Sedan
+Pontiac Solstice,Convertible
+Mercedes-Benz Metris Cargo Van,Minivan
+BMW 6 Series,Coupe
+Audi S8,Sedan
+Hyundai Kona N,SUV
+Nissan 370Z Coupe,Coupe
+Maserati Ghibli,Sedan
+Toyota Avalon,Sedan
+Audi A6,Sedan
+Nissan 350Z,Coupe
+BMW M6,Coupe
+Audi e-tron,SUV
+Toyota GR Corolla,Sedan
+Jaguar XK,Coupe
+Nissan 370Z,Coupe
+Ford F 150 Lightning,Pickup Truck
+Hyundai SONATA,Sedan
+Hyundai PALISADE,SUV
+Honda CR-Z,Hatchback
+Audi SQ8,SUV
+Fisker Karma,Sedan
+Jaguar XK Convertible,Convertible
+Jaguar XJ,Sedan
+BMW 1 Series M Coupe,Coupe
+Volkswagen Beetle Convertible,Convertible
+Audi A3 Cabriolet,Convertible
+Hyundai IONIQ 6,Hatchback
+Ferrari California,Convertible
+Nissan X-Trail,SUV
+Maserati Quattroporte,Sedan
+Volkswagen Touareg,SUV
+Audi S3,Sedan
+Ford F-150 Lightning,Pickup Truck
+Alfa Romeo Stelvio,SUV
+Fiat 500,Hatchback
+RAM Promaster,Van
+Mercedes-Benz Sprinter,Van
+Hyundai IONIQ Hybrid,Hatchback
+Hyundai IONIQ,Hatchback
+Volkswagen Eos,Convertible
+Maserati Grecale,SUV
+Nissan 370Z Roadster,Convertible
+Chrysler Crossfire,Coupe
+Jaguar XF,Sedan
+Ford F-550 Super Duty,Pickup Truck
+Ford Fusion Energi,Sedan
+Pontiac Vibe,Hatchback
+Subaru XV,SUV
+Chevrolet Aveo,Sedan
+Aston Martin DBX,SUV
+Ford E-450,Van
+smart fortwo,Hatchback
+Ford C-Max Hybrid,Minivan
+Volkswagen Golf City,Hatchback
+Mercedes-Benz M-Class,SUV
+Mazda CX-7,SUV
+Chevrolet Corvette Stingray,Coupe
+Pontiac G6,Sedan
+Volkswagen Golf Wagon,Wagon
+BMW 6 Series Gran Coupe,Sedan
+BMW M8 Gran Coupe,Sedan
+Rolls-Royce Ghost,Sedan
+Chevrolet SSR,Pickup Truck
+Dodge RAM 1500,Pickup Truck
+Lotus Evora,Coupe
+Hyundai Elantra Touring,Wagon
+Polestar 3,SUV
+Mercedes-Benz CLK-Class,Coupe
+Ford Econoline,Van
+Nissan Sentra NISMO,Sedan
+Lexus RX 350,SUV
+Audi S6,Sedan
+Bentley Bentayga,SUV
+Maserati Levante,SUV
+Chevrolet City Express,Minivan
+Porsche 911,Coupe
+Aston Martin Vantage,Coupe
+Saab 46268,Sedan
+McLaren 12 C,Coupe
+Alfa Romeo 4C,Coupe
+Audi e-tron GT,Sedan
+BMW 5 Series Gran Turismo,Hatchback
+Maserati GranTurismo,Coupe
+Audi TT RS Roadster,Convertible
+Porsche 718 Boxster,Convertible
+RAM ProMaster 2500,Van
+Nissan Juke Nismo,SUV
+BMW Z4,Convertible
+Suzuki Grand Vitara,SUV
+Ford Transit,Van
+Hyundai IONIQ 5 N,Hatchback
+HUMMER H3,SUV
+Ford Explorer Sport Trac,Pickup Truck
+Chevrolet Silverado,Pickup Truck
+GMC Envoy,SUV
+Kia Spectra,Sedan
+Dodge Dart,Sedan
+Audi SQ6 e-tron,SUV
+Toyota RAV 4 Prime,SUV
+Bentley Continental GT,Coupe
+Land Rover LR2,SUV
+Audi Q4 e-tron Sportback,SUV
+Chevrolet Express Passenger,Van
+Nissan Titan XD,Pickup Truck
+Mitsubishi Outlander PHEV,SUV
+Nissan Note,Hatchback
+Mercedes-Benz CLS,Coupe
+Mercedes-Benz 230,Sedan
+Scion xB,Hatchback
+Mercedes-Benz Metris Passenger Van,Minivan
+Acura CSX,Sedan
+Polestar 2,Fastback
+Volkswagen ID.4,SUV
+Kia Borrego,SUV
+Volkswagen Golf Alltrack,Wagon
+Scion iM,Hatchback
+Jeep Liberty,SUV
+Mazda B-Series,Pickup Truck
+HUMMER H2,SUV
+Saturn Aura,Sedan
+Daihatsu Hijet,Pickup Truck
+Acura RSX,Coupe
+Toyota bZ Woodland,SUV
+Kia EV5,SUV
+Porsche 911 Carrera 4 GTS Coupe,Coupe
+Nissan GT-R,Coupe
+BMW 5 Series Sedan,Sedan
+Audi TT RS,Coupe
+Lotus Emira,Coupe
