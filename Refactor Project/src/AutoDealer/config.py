@@ -25,13 +25,15 @@ class Config:
     # split and cv
     test_size: float = 0.2
     n_splits: int = 5
-    random_state: int = 422
+    random_state: int = 42
 
     # winning hyperparameters from your tuning run
     model_params: dict = field(default_factory=lambda: {
-        "n_estimators": 3000,
+        "n_estimators": 4000,
         "max_depth": 4,
         "learning_rate": 0.05,
+        "subsample":0.8,
+        "n_jobs":-1
     })
 
 

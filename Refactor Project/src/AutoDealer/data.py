@@ -24,18 +24,20 @@ def load_raw_data() -> pd.DataFrame:
     return pd.read_csv(CONFIG.raw_data_path)
 
 
-def validate_columns(df: pd.DataFrame) -> None:
+def validate_columns(df: pd.DataFrame, require_target: bool = True) -> None:
     """
-    Confirms every column CONFIG says it needs (target + numeric +
-    categorical features) actually exists in df. Fails loudly and
-    specifically rather than letting a KeyError surface later, deep
-    inside training.
+    Confirms every column CONFIG needs actually exists in df.
+    Set require_target=False when validating new data to predict on
+    (new listings don't have a price yet).
     """
-    expected = {CONFIG.target, *CONFIG.numeric_features, *CONFIG.categorical_features}
+    expected = {*CONFIG.numeric_features, *CONFIG.categorical_features}
+    if require_target:
+        expected.add(CONFIG.target)
+
     missing = expected - set(df.columns)
     if missing:
         raise ValueError(
-            f"Missing expected columns in raw data: {sorted(missing)}. "
+            f"Missing expected columns: {sorted(missing)}. "
             f"Available columns: {sorted(df.columns.tolist())}"
         )
 

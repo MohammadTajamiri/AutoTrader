@@ -1,4 +1,5 @@
 pyproject.toml
+src/train.py
 src/AutoDealer/config.py
 src/AutoDealer/data.py
 src/AutoDealer/pipeline.py
@@ -7,3 +8,4 @@ src/AutoDealer.egg-info/SOURCES.txt
 src/AutoDealer.egg-info/dependency_links.txt
 src/AutoDealer.egg-info/requires.txt
 src/AutoDealer.egg-info/top_level.txt
+tests/test_pipeline.py
