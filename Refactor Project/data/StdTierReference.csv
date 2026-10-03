@@ -1,0 +1,352 @@
+Make,Model,std_tier,new_listing_count,avg_new_price
+Acura,ADX,Normal,217,54152.14
+Acura,Integra,Normal,90,52234.27
+Acura,MDX,1std,119,81314.0
+Acura,RDX,Normal,178,65553.67
+Aston,Martin DB12,Normal,1,424995.0
+Audi,A3 Sedan,Normal,17,53951.12
+Audi,A4 Sedan,Normal,1,44995.0
+Audi,A5,Normal,27,70885.15
+Audi,A6 Sedan,Normal,7,96553.43
+Audi,Q3,Normal,68,59427.5
+Audi,Q5,Normal,211,71373.89
+Audi,Q5 Sportback,Normal,1,77371.0
+Audi,Q6 e-tron,Normal,8,97354.75
+Audi,Q7,Normal,89,92586.8
+Audi,Q8,1std,19,109046.53
+Audi,RS Q8,3std,8,183841.62
+Audi,RS3,Normal,9,87928.56
+Audi,S e-tron GT,3std,1,174027.0
+Audi,S3 Sedan,Normal,8,67400.88
+Audi,S5,Normal,9,80879.67
+Audi,S6 e-tron,1std,1,106948.0
+Audi,SQ5,Normal,29,87867.45
+Audi,SQ6 e-tron,1std,1,111120.0
+Audi,SQ7,2std,7,134554.14
+Audi,SQ8,3std,2,143550.5
+BMW,2 Series,Normal,4,71547.25
+BMW,2 Series Gran Coupe,Normal,19,54554.84
+BMW,3 Series,Normal,56,77290.96
+BMW,4 Series,Normal,36,81744.33
+BMW,5 Series,Normal,5,96798.4
+BMW,5 Series Sedan,Normal,6,96909.83
+BMW,7 Series,2std,7,191303.71
+BMW,8 Series,1std,3,146476.0
+BMW,8 Series Gran Coupe,1std,2,137556.5
+BMW,M2,Normal,1,97306.0
+BMW,M3,1std,6,125858.67
+BMW,M3 Sedan,1std,2,140859.5
+BMW,M4,1std,12,131174.83
+BMW,M4 Coupe,1std,2,136294.5
+BMW,M5,2std,8,162939.25
+BMW,M5 Sedan,2std,2,163204.0
+BMW,M5 Touring,2std,2,171004.0
+BMW,M8,2std,2,185082.5
+BMW,Unspecified,Normal,1,90220.0
+BMW,X1,Normal,156,64151.52
+BMW,X2,Normal,27,66229.33
+BMW,X3,Normal,110,74351.69
+BMW,X4,Normal,1,96671.0
+BMW,X5,Normal,93,119906.75
+BMW,X5 M,2std,11,182842.73
+BMW,X6,Normal,15,122691.53
+BMW,X6 M,2std,7,184073.14
+BMW,X7,1std,9,142681.67
+BMW,Z4 Roadster,Normal,1,99494.0
+BMW,iX3,Normal,1,87820.0
+Buick,Enclave,2std,65,69525.24
+Buick,Encore GX,Normal,127,39998.69
+Buick,Envision,Normal,334,53145.05
+Buick,Envista,Normal,179,35598.87
+Cadillac,CT4,Normal,6,61714.0
+Cadillac,CT4-V,Normal,4,86008.75
+Cadillac,CT5,Normal,19,71452.89
+Cadillac,CT5-V,Normal,2,89050.0
+Cadillac,Escalade,Normal,51,166742.65
+Cadillac,Escalade ESV,Normal,24,178606.54
+Cadillac,Escalade IQ,Normal,36,170629.45
+Cadillac,Escalade IQL,1std,11,187105.0
+Cadillac,XT4,Normal,4,58701.0
+Cadillac,XT5,Normal,62,70885.68
+Chevrolet,Blazer,Normal,16,52799.07
+Chevrolet,Blazer EV,Normal,5,75797.8
+Chevrolet,Bolt EV,Normal,45,41520.62
+Chevrolet,Colorado,Normal,57,57174.63
+Chevrolet,Corvette,2std,57,151527.58
+Chevrolet,Equinox,Normal,167,45520.04
+Chevrolet,Equinox EV,Normal,58,50456.74
+Chevrolet,Express,Normal,5,56747.4
+Chevrolet,Express 2500,Normal,31,57577.68
+Chevrolet,Express 3500,Normal,2,65439.0
+Chevrolet,Silverado 1500,Normal,289,74887.95
+Chevrolet,Silverado 2500,1std,1,112683.0
+Chevrolet,Silverado 2500 HD,1std,47,102849.17
+Chevrolet,Silverado 3500,1std,1,107702.0
+Chevrolet,Silverado 3500 HD,1std,15,102565.67
+Chevrolet,Silverado EV,1std,16,96088.94
+Chevrolet,Suburban,1std,23,107672.04
+Chevrolet,Tahoe,1std,53,106451.4
+Chevrolet,Trailblazer,Normal,74,38696.82
+Chevrolet,Traverse,Normal,66,66853.53
+Chevrolet,Trax,Normal,316,32838.21
+Chrysler,Grand Caravan,Normal,138,50164.71
+Chrysler,Pacifica,Normal,136,57708.09
+Dodge,Charger,Normal,42,75028.07
+Dodge,Charger Daytona,Normal,2,65236.5
+Dodge,Durango,Normal,188,65143.49
+Dodge,Unspecified,Normal,3,69434.0
+Fiat,500e,Normal,3,34521.67
+Ford,Bronco,Normal,126,69481.75
+Ford,Bronco Sport,Normal,340,44384.84
+Ford,E-Series Cutaway,Normal,1,58740.0
+Ford,Escape,Normal,13,37405.15
+Ford,Escape PHEV,Normal,1,38511.0
+Ford,Expedition,1std,10,108521.2
+Ford,Expedition Max,2std,9,112333.67
+Ford,Explorer,Normal,169,63836.1
+Ford,F 150,Normal,15,83682.93
+Ford,F 250,1std,4,93643.0
+Ford,F-150,Normal,866,79476.15
+Ford,F-150 SuperCrew,Normal,1,72472.0
+Ford,F-250 Super Duty,1std,65,92820.16
+Ford,F-350,1std,1,95859.0
+Ford,F-350 Super Duty,1std,33,99716.41
+Ford,F-450 Super Duty,2std,9,119333.78
+Ford,F-550 Super Duty,1std,10,100802.0
+Ford,Maverick,Normal,132,45994.6
+Ford,Mustang,3std,7,151316.57
+Ford,Mustang Convertible,Normal,14,66085.79
+Ford,Mustang Fastback,Normal,63,57725.77
+Ford,Mustang Mach-E,Normal,54,54441.5
+Ford,Police Interceptor Utility,Normal,1,80077.0
+Ford,Ranger,Normal,91,55099.64
+Ford,Ranger Raptor,Normal,1,87220.0
+Ford,Transit Cargo Van,Normal,70,70767.96
+Ford,Transit E-Transit Cargo Van,Normal,3,81898.0
+Ford,Transit Passenger Van,Normal,3,86739.33
+Ford,Unspecified,1std,9,95240.11
+GMC,Acadia,Normal,51,69944.18
+GMC,Canyon,Normal,66,62763.98
+GMC,HUMMER EV Pickup,1std,11,141205.73
+GMC,HUMMER EV SUV,1std,6,137781.33
+GMC,Savana,Normal,5,63602.8
+GMC,Savana Cargo Van,Normal,26,60189.54
+GMC,Savana Passenger,Normal,1,69804.0
+GMC,Sierra 1500,Normal,429,85292.33
+GMC,Sierra 2500HD,Normal,113,110759.89
+GMC,Sierra 3500HD,1std,52,116590.59
+GMC,Sierra EV,Normal,8,109482.5
+GMC,Terrain,Normal,132,48672.58
+GMC,Yukon,1std,72,121066.8
+GMC,Yukon XL,1std,53,121193.51
+Genesis,G70,Normal,2,57943.0
+Genesis,GV70,Normal,30,74495.2
+Genesis,GV80,1std,4,97835.75
+Genesis,GV80 Coupe,2std,1,108600.0
+Honda,Accord,Normal,58,47197.4
+Honda,Accord Hybrid,Normal,5,48732.6
+Honda,Accord Sedan,Normal,5,39105.6
+Honda,CR-V,Normal,233,45525.97
+Honda,CR-V Hybrid,Normal,384,52160.39
+Honda,Civic,Normal,10,39918.1
+Honda,Civic Hatchback,Normal,15,36847.2
+Honda,Civic Sedan,Normal,359,37487.33
+Honda,Civic Si Sedan,Normal,1,40222.0
+Honda,HR-V,Normal,87,38685.86
+Honda,Odyssey,1std,63,60820.29
+Honda,Passport,2std,21,64107.0
+Honda,Pilot,2std,34,66431.62
+Honda,Prelude,Normal,2,54246.5
+Honda,Ridgeline,1std,21,60506.86
+Hyundai,ELANTRA,Normal,2,31161.5
+Hyundai,Elantra,Normal,191,28795.18
+Hyundai,Elantra Hybrid,Normal,56,34515.8
+Hyundai,Elantra N,Normal,9,45860.11
+Hyundai,IONIQ 5,1std,29,62862.86
+Hyundai,IONIQ 9,2std,19,80212.37
+Hyundai,Kona,Normal,225,36051.08
+Hyundai,Kona Electric,Normal,63,48091.13
+Hyundai,Palisade,1std,111,64446.15
+Hyundai,Palisade Hybrid,1std,88,66767.97
+Hyundai,Santa Fe,Normal,3,54771.0
+Hyundai,Santa Fe Hybrid,Normal,149,55039.05
+Hyundai,Sonata,Normal,28,40036.93
+Hyundai,Sonata Hybrid,Normal,18,39141.29
+Hyundai,TUCSON,Normal,4,48320.75
+Hyundai,Tucson,Normal,257,41152.5
+Hyundai,Tucson Hybrid,Normal,293,48691.43
+Hyundai,Tucson Plug-In Hybrid,Normal,23,53502.87
+Hyundai,Unspecified,1std,1,66845.0
+Hyundai,Venue,Normal,104,27406.35
+Ineos,Grenadier,Normal,5,113659.2
+Infiniti,QX50,Normal,146,60788.32
+Infiniti,QX55,Normal,10,58222.0
+Infiniti,QX60,Normal,64,73445.24
+Infiniti,QX65,Normal,6,72852.5
+Infiniti,QX80,1std,59,124061.62
+Jaguar,F-Pace,Normal,9,84259.89
+Jeep,Cherokee,Normal,130,51319.14
+Jeep,Compass,Normal,84,40949.38
+Jeep,Gladiator,Normal,38,64330.17
+Jeep,Grand Cherokee,Normal,73,68239.66
+Jeep,Grand Cherokee L,Normal,4,72518.0
+Jeep,Grand Wagoneer,2std,18,108127.06
+Jeep,Wagoneer S,Normal,4,75258.0
+Jeep,Wrangler,Normal,166,70119.71
+Kia,Carnival,1std,102,54093.65
+Kia,Carnival Hybrid,1std,48,55862.77
+Kia,Carnival Van,1std,1,59481.0
+Kia,K4,Normal,169,31111.87
+Kia,Niro,Normal,61,37121.72
+Kia,Niro EV,Normal,81,49715.33
+Kia,Niro Plug-In Hybrid,Normal,9,41974.33
+Kia,Seltos,Normal,275,35213.47
+Kia,Sorento,Normal,27,49343.44
+Kia,Sorento Hybrid,1std,69,52673.96
+Kia,Sorento Plug-In Hybrid,1std,39,55978.9
+Kia,Soul,Normal,6,33071.0
+Kia,Sportage,Normal,295,42771.11
+Kia,Sportage Hybrid,Normal,193,47359.09
+Kia,Sportage PHEV,1std,3,53329.67
+Kia,Telluride,1std,7,59588.86
+Kia,Unspecified,Normal,2,41653.0
+Lexus,ES,Normal,14,70868.36
+Lexus,GX,2std,9,108955.89
+Lexus,IS,Normal,45,65110.18
+Lexus,LC,3std,1,139923.0
+Lexus,LX,3std,33,145018.67
+Lexus,NX,Normal,329,64756.07
+Lexus,RC,3std,1,124495.0
+Lexus,RX,Normal,325,75332.41
+Lexus,TX,Normal,132,79773.5
+Lexus,UX,Normal,196,51711.28
+Lincoln,Aviator,Normal,151,85004.67
+Lincoln,Corsair,Normal,3,70265.67
+Lincoln,Nautilus,Normal,308,71240.62
+Lincoln,Navigator,2std,51,133593.74
+Lincoln,Navigator L,2std,36,139131.75
+MINI,3 Door,Normal,63,54202.16
+MINI,5 Door,Normal,43,49699.29
+MINI,Convertible,Normal,66,58557.67
+MINI,Countryman,Normal,161,60016.86
+Maserati,Grecale,Normal,1,117470.0
+Mazda,3,Normal,11,33309.82
+Mazda,CX-30,Normal,225,37628.73
+Mazda,CX-5,Normal,350,44666.16
+Mazda,CX-50,Normal,3,52486.0
+Mazda,CX-70,1std,74,60954.01
+Mazda,CX-70 MHEV,1std,2,64210.0
+Mazda,CX-70 PHEV,1std,1,62365.0
+Mazda,CX-90 MHEV,1std,107,59493.27
+Mazda,CX-90 PHEV,1std,75,65766.19
+Mazda,MX-5 Miata,Normal,16,46593.44
+Mazda,MX-5 Miata RF,Normal,1,46764.0
+Mazda,MX-5 Miata Roadster,Normal,1,46289.0
+Mazda,Mazda3,Normal,194,33098.84
+Mazda,Mazda3 Sport,Normal,7,34161.71
+Mercedes-Benz,AMG GT,3std,4,242527.75
+Mercedes-Benz,C-Class Sedan,Normal,20,75111.5
+Mercedes-Benz,CLA,Normal,48,61280.44
+Mercedes-Benz,CLE,Normal,31,71578.94
+Mercedes-Benz,E-Class,Normal,33,106322.67
+Mercedes-Benz,EQS,Normal,2,138783.0
+Mercedes-Benz,G-Class,3std,3,300843.67
+Mercedes-Benz,GLA,Normal,44,63308.39
+Mercedes-Benz,GLB,Normal,33,65980.0
+Mercedes-Benz,GLC,Normal,158,81022.16
+Mercedes-Benz,GLE,Normal,301,122892.33
+Mercedes-Benz,GLS,1std,28,153290.64
+Mercedes-Benz,S-Class,3std,6,220416.33
+Mercedes-Benz,SL-Class,3std,5,238039.8
+Mercedes-Benz,Sprinter,Normal,6,90159.33
+Mercedes-Benz,Sprinter 2500,Normal,11,81845.09
+Mercedes-Benz,Sprinter 2500 Cargo Van,Normal,17,81262.82
+Mercedes-Benz,Sprinter 2500 Crew Van,Normal,22,92732.41
+Mercedes-Benz,Sprinter 2500 Passenger Van,Normal,3,114210.33
+Mercedes-Benz,Sprinter 3500 Cargo Van,Normal,2,94490.5
+Mercedes-Benz,Sprinter Cargo Van,Normal,7,83314.33
+Mercedes-Benz,Sprinter Crew Van,Normal,3,86771.0
+Mercedes-Benz,Sprinter Passenger Van,Normal,1,95078.0
+Mitsubishi,Eclipse Cross,Normal,85,37555.38
+Mitsubishi,Outlander,Normal,166,47222.16
+Mitsubishi,Outlander PHEV,1std,19,55202.84
+Mitsubishi,Outlander Plug-In Hybrid,1std,52,60251.63
+Mitsubishi,RVR,Normal,131,31114.8
+Nissan,Altima,Normal,1,41491.0
+Nissan,Armada,3std,16,104674.27
+Nissan,Frontier,1std,1,59247.0
+Nissan,Kicks,Normal,345,33632.14
+Nissan,Kicks Play,Normal,10,26335.8
+Nissan,Murano,1std,9,58666.22
+Nissan,Pathfinder,2std,14,62697.43
+Nissan,Rogue,Normal,702,42108.6
+Nissan,Rogue Plug-In Hybrid,2std,2,61449.5
+Nissan,Sentra,Normal,147,31356.18
+Nissan,Versa,Normal,3,23524.67
+Nissan,Z,3std,2,71371.5
+Polestar,4,Normal,2,84800.0
+RAM,1500,Normal,375,84656.38
+RAM,2500,Normal,71,88248.93
+RAM,3500,Normal,25,92619.08
+RAM,5500,Normal,1,83985.0
+RAM,5500 Chassis,Normal,4,98896.25
+RAM,ProMaster,Normal,2,58648.0
+RAM,ProMaster 2500,1std,1,119977.0
+RAM,ProMaster 3500,Normal,2,52988.0
+RAM,ProMaster Cargo Van,Normal,65,50575.31
+RAM,ProMaster Window Van,Normal,3,53621.33
+Subaru,BRZ,Normal,8,40488.62
+Subaru,Crosstrek,Normal,357,38339.49
+Subaru,Crosstrek Hybrid,Normal,34,43610.76
+Subaru,Forester,Normal,111,45410.66
+Subaru,Impreza,Normal,47,33515.15
+Subaru,Outback,1std,39,50851.15
+Subaru,WRX,1std,27,48421.33
+Tesla,Model 3,Normal,1,42000.0
+Toyota,4-Runner,Normal,15,68912.2
+Toyota,4Runner,Normal,1,73138.0
+Toyota,C-HR,Normal,5,47932.2
+Toyota,Camry,Normal,26,46048.42
+Toyota,Corolla,Normal,1,29609.0
+Toyota,Corolla Cross,Normal,18,36462.89
+Toyota,Corolla Cross Hybrid,Normal,1,48215.0
+Toyota,Corolla Hatchback,Normal,1,32077.0
+Toyota,Corolla Hatchback 5-Door,Normal,12,32515.58
+Toyota,Corolla Sedan,Normal,95,30923.66
+Toyota,Crown,Normal,32,62860.59
+Toyota,Crown Signia,Normal,7,63263.29
+Toyota,GR Corolla,Normal,9,59711.44
+Toyota,GR86,Normal,3,39515.0
+Toyota,Grand Highlander,Normal,3,64496.67
+Toyota,Grand Highlander Hybrid,Normal,2,67874.0
+Toyota,Highlander,Normal,3,62254.0
+Toyota,Highlander Hybrid,Normal,13,61197.77
+Toyota,Land Cruiser,1std,4,93313.0
+Toyota,Prius,Normal,8,47040.12
+Toyota,Prius Plug-In Hybrid,Normal,19,43949.32
+Toyota,RAV 4,Normal,36,53585.67
+Toyota,RAV 4 Plug-In Hybrid,Normal,3,63079.67
+Toyota,RAV4,Normal,2,50611.0
+Toyota,RAV4 Plug-In Hybrid,Normal,2,61247.5
+Toyota,Sienna,Normal,16,68062.62
+Toyota,Tacoma,Normal,89,60941.7
+Toyota,Tundra,Normal,99,73410.18
+Toyota,Tundra Hybrid,1std,38,86179.55
+Toyota,Unspecified,1std,4,81161.0
+Toyota,bZ Woodland,Normal,2,62831.0
+Volkswagen,Atlas,1std,123,64266.85
+Volkswagen,Atlas Cross Sport,1std,66,63479.82
+Volkswagen,Golf GTI,Normal,12,45903.42
+Volkswagen,Golf R,Normal,14,58755.5
+Volkswagen,ID. Buzz,1std,1,66988.0
+Volkswagen,Jetta,Normal,144,34152.74
+Volkswagen,Jetta GLI,Normal,14,39316.0
+Volkswagen,Taos,Normal,132,40401.32
+Volkswagen,Tiguan,Normal,226,46860.53
+Volkswagen,Unspecified,Normal,1,41067.0
+Volvo,V60 Cross Country,Normal,16,68318.47
+Volvo,XC40,Normal,106,57425.78
+Volvo,XC60,Normal,145,71284.2
+Volvo,XC60 Plug-in Hybrid,Normal,13,89801.85
+Volvo,XC90,Normal,142,89544.31
+Volvo,XC90 Plug-in Hybrid,1std,51,97988.06

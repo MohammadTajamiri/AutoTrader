@@ -9,13 +9,19 @@ import joblib
 import numpy as np
 import pandas as pd
 from sklearn.metrics import mean_squared_error, r2_score
-
+from .preprocess import build_tree_dataset
 from .config import CONFIG
 from .data import load_and_split
 from .pipeline import build_pipeline
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
-def train_and_evaluate():
+def train_and_evaluate(rebuild_from_master: bool = True):
+    if rebuild_from_master:
+        df = build_tree_dataset()
+        CONFIG.raw_data_path.parent.mkdir(parents=True, exist_ok=True)
+        df.to_csv(CONFIG.raw_data_path, index=False)
+        print(f"Rebuilt {CONFIG.raw_data_path} from {CONFIG.raw_master_path} ({len(df)} rows)")
+    
     #  1: get X_train, X_test, y_train, y_test from data.py's
     # load_and_split()
     X_train,X_test,y_train,y_test=load_and_split()

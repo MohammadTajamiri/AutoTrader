@@ -7,9 +7,15 @@ ROOT = Path(__file__).resolve().parents[2]
 @dataclass(frozen=True)
 class Config:
     # paths
-    raw_data_path: Path = ROOT / "data" / "TreeInput.csv"
+    std_tier_source_path: Path = ROOT / "data" / "FullDataSet.csv"
+    std_tier_reference_path: Path = ROOT / "data" / "StdTierReference.csv"
+    raw_data_path: Path = ROOT / "data" / "ModelInput.csv"
+    new_input_path: Path = ROOT / "data" / "NewInput.csv"
+    raw_master_path: Path = ROOT / "data" / "master.csv"
+    engine_spec_path: Path = ROOT / "data" / "EngineType_enriched.xlsx"
     model_path: Path = ROOT / "models" / "model.joblib"
-
+    std_tier_reference_path: Path = ROOT / "data" / "StdTierReference.csv"
+    error_model_path: Path = ROOT / "models" / "error_model.joblib"
     # columns
     target: str = "price"
     numeric_features: tuple[str, ...] = (
@@ -18,23 +24,27 @@ class Config:
         "service_records", "certified", "Is_Hybrid",
     )
     categorical_features: tuple[str, ...] = (
-        "Make", "transmission", "Country_of_Origin",
-        "Body Type", "Cylinders", "Brand_Segment", "std_tier",
-    )
+    "Make", "transmission",
+    "Body Type", "Cylinders", "Brand_Segment", "std_tier",
+)
+
+    # preprocessing
+    min_manufacture_year: int = 2005
+    current_year: int = 2027
+    price_bin_width: int = 5000
+    min_price_bin_count: int = 100
+    excluded_makes: tuple[str, ...] = ("Land", "Porsche")
+    excluded_cylinders: tuple[str, ...] = ("Electric",)
 
     # split and cv
-    test_size: float = 0.2
+    test_size: float = 0.3
     n_splits: int = 5
-    random_state: int = 42
+    random_state: int = 90
 
-    # winning hyperparameters from your tuning run
+    # winning hyperparameters
     model_params: dict = field(default_factory=lambda: {
-        "n_estimators": 4000,
+        "n_estimators": 3000,
         "max_depth": 4,
-        "learning_rate": 0.05,
-        "subsample":0.8,
-        "n_jobs":-1
+        "learning_rate": 0.03,
     })
-
-
 CONFIG = Config()

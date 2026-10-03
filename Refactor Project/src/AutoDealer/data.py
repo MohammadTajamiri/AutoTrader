@@ -14,14 +14,14 @@ from sklearn.model_selection import train_test_split
 from .config import CONFIG
 
 
-def load_raw_data() -> pd.DataFrame:
+def load_raw_data(path=CONFIG.raw_data_path) -> pd.DataFrame:
     """Loads the raw modeling dataset from CONFIG.raw_data_path."""
-    if not CONFIG.raw_data_path.exists():
+    if not path.exists():
         raise FileNotFoundError(
-            f"Expected data file not found: {CONFIG.raw_data_path}. "
+            f"Expected data file not found: {path}. "
             f"Check that the file exists and CONFIG.raw_data_path is correct."
         )
-    return pd.read_csv(CONFIG.raw_data_path)
+    return pd.read_csv(path)
 
 
 def validate_columns(df: pd.DataFrame, require_target: bool = True) -> None:
